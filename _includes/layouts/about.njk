@@ -4,6 +4,8 @@ section: about
 ---
 <h1>{{ title }}</h1>
 
+<div class="profile-pic"><img alt={{ profilealt }} src={{profilepic}} /></div>
+
 {{ layoutContent | safe }}
 
 {% include "components/form.njk" %}

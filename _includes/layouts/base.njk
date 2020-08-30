@@ -13,7 +13,9 @@
 		</header>
 
 		<main>
-			{{ layoutContent | safe }}
+			<div class="main__content-wrapper">
+				{{ layoutContent | safe }}
+			</div>
 		</main>
 
 		{% include "components/footer.njk" %}
