@@ -5,6 +5,9 @@
   --black: rgb(20, 20, 20);
   --grey1: rgb(37, 37, 37);
   --grey2: rgb(48, 48, 48);
+  --grey3: rgb(78, 78, 78);
+  --grey4: rgb(129, 129, 129);
+  --grey5: rgb(192, 192, 192);
   --white: white;
 }
 
@@ -210,6 +213,7 @@ header nav li a[data-current="current item"] {
   flex-flow: row wrap;
   justify-content: center;
   align-items: flex-start;
+  max-width: 1150px;
 }
 
 @media screen and (min-width: 710px) {
@@ -238,12 +242,20 @@ header nav li a[data-current="current item"] {
 
 .hero__social-links {
   margin-bottom: 4rem;
+  display: flex;
+  align-items: center;
 }
 
 .hero__social-links__twitter,
-.hero__social-links__instagram {
+.hero__social-links__instagram,
+.hero__social-links__youtube {
   text-decoration: none !important;
   margin-right: 1.5rem;
+}
+
+.hero__social-links__youtube {
+  width: 2.2rem;
+  margin-left: 0.5rem;
 }
 
 .hero__social-links__twitter > svg {
@@ -297,7 +309,7 @@ header nav li a[data-current="current item"] {
 
 .home__appearances {
   background-color: var(--black);
-  padding: 2rem;
+  padding: 2rem 0 4rem;
   margin: 0 -2rem;
   text-align: center;
 }
@@ -305,16 +317,39 @@ header nav li a[data-current="current item"] {
 .home__appearances > ul {
   list-style-type: none;
   display: flex;
+  flex-flow: row wrap;
   justify-content: center;
   align-items: center;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0;
 }
 
 .home__appearances li {
   padding: 1rem;
 }
 
+.home__appearances .home__appearances__default {
+  width: 120px;
+  height: 120px;
+  background-color: var(--grey5);
+  color: black;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  border-radius: 8px;
+}
+
+.home__appearances a {
+  color: black;
+  text-decoration: none;
+}
+
 .home__appearances img {
-  width: 100px;
+  width: 120px;
+  border-radius: 8px;
 }
 
 .home__works {
@@ -328,15 +363,30 @@ header nav li a[data-current="current item"] {
 .home__works__list {
   list-style-type: none;
   display: flex;
+  flex-flow: row wrap;
 }
 
 .home__works__list > li {
-  background-color: white;
   color: black;
-  padding: 3rem 1.5rem;
+  padding: 1rem 1.5rem;
   display: block;
   margin: 0.5rem;
+  width: 400px;
+  height: 200px;
 }
+
+.home__works__default {
+  width: 400px;
+  height: 200px;
+  background-color: var(--grey5);
+  color: black;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+}
+
 .home__blog-articles {
   margin-top: 2rem;
   padding: 2rem;
@@ -355,6 +405,7 @@ header nav li a[data-current="current item"] {
   display: flex;
   flex-direction: column;
   flex: 0 1 32%;
+  min-width: 300px;
   padding: 0 0.7rem;
   border: none;
 }
