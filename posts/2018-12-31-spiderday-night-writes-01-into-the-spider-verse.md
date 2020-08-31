@@ -1,17 +1,17 @@
 ---
 title: You're not the only one - "Into the Spiderverse" captures the journey of being a PoC in academia
 date: 2018-12-31T20:50:38.971Z
+image: /static/img/p-aurantius_small-crop.jpeg
 summary: ""
 tags:
   - spiderman
   - spiderverse
   - grad school
-  - snwrites
 ---
 
 ## Spiderday Night Writes #01
 
-![p-aurantius_small-crop.jpeg](/img/p-aurantius_small-crop.jpeg)
+![p-aurantius_small-crop.jpeg](/static/img/p-aurantius_small-crop.jpeg)
 
 I watched Spider-man: Into the Spider-verse this weekend. I left the theater with tears in my eyes. From laughing at the post credit scene? Yeah, that.
 
