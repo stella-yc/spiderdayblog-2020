@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/base.njk",
+  "permalink": "media-appearances/{{ name | slug }}/index.html",
+  "tags": ["mediaAppearance"]
+}
