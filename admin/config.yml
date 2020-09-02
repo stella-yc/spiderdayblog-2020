@@ -77,11 +77,9 @@ collections:
       - { label: "Image Link", name: "link", widget: "string" }
       - { label: "Order", name: "order", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - {
-          label: "Links",
-          name: "links",
-          widget: "list",
-          fields:
-            - { label: Link, name: link, widget: string }
-            - { label: Title, name: title, widget: string }
-        }
+      - label: "Links"
+        name: "links"
+        widget: "list"
+        fields:
+          - { label: "Url", name: "url", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }

@@ -3,17 +3,14 @@ layout: layouts/base.njk
 section: home
 ---
 <section class="hero">
-
   <div class="hero__text">
-    <p>Sebastian A. Echeverri, Ph.D., is a scientist, educator, journalist and photographer.</p>
-    <p>His mission is to spark curiosity in the natural world, and make science more accessible, inclusive and joyful for people of all ages and backgrounds.<p>
+    {{ layoutContent | safe }}
     {% include "components/socialmedia.njk" %}
   </div>
 
   <div class="hero__image">
     <img src="static/img/sebastian-outdoors.jpg" alt="Sebastian Echeverri smiling outside with his camera gear for wildlife photography" />
   </div>
-
 </section>
 
 <section class="home__appearances">
