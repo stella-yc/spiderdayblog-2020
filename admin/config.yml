@@ -54,24 +54,6 @@ collections:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Email", name: "email", widget: "string" }
       - { label: "GitHub", name: "github", widget: "string" }
-  # Works
-  - name: "works"
-    label: "Featured Work"
-    folder: "works"
-    create: true
-    slug: "{{fields.name}}"
-    fields:
-      - { label: "Name", name: "name", widget: "string" }
-      - { label: "Image", name: "img", widget: "image" }
-      - { label: "Image Link", name: "link", widget: "string" }
-      - { label: "Order", name: "order", widget: "number" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Links"
-        name: "links"
-        widget: "list"
-        fields:
-          - { label: "Url", name: "url", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
   - name: "mediaAppearances"
     label: "Media Appearances"
     folder: "mediaAppearances"
@@ -90,3 +72,28 @@ collections:
         name: "tags"
         widget: "list"
         default: ["media appearances list"]
+  - name: "featuredWork"
+    label: "Featured Work 2"
+    folder: "featuredWork"
+    create: true
+    slug: "{{fields.name}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - label: "Works"
+        name: "works"
+        widget: "list"
+        fields:
+          - { label: "Name", name: "name", widget: "string" }
+          - { label: "Image", name: "img", widget: "image" }
+          - { label: "Image Link", name: "link", widget: "string" }
+          - { label: "Body", name: "body", widget: "markdown" }
+          - label: "Links"
+            name: "links"
+            widget: "list"
+            fields:
+              - { label: "Url", name: "url", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["featured work"]

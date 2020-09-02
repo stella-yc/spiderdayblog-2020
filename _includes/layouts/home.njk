@@ -4,12 +4,14 @@ section: home
 ---
 <section class="hero">
   <div class="hero__text">
+    <h1 class="visually-hidden">Sebastian A. Echeverri, Ph.D</h1>
     {{ layoutContent | safe }}
     {% include "components/socialmedia.njk" %}
   </div>
 
   <div class="hero__image">
-    <img src="static/img/sebastian-outdoors.jpg" alt="Sebastian Echeverri smiling outside with his camera gear for wildlife photography" />
+    <img src="static/img/sebastian-outdoors.jpg" alt="Sebastian Echeverri is outdoors with his camera gear for wildlife photography" />
+    {# <img src="static/img/img_20191016_094929_026.jpg" alt="Sebastian Echeverri smiling." /> #}
   </div>
 </section>
 
@@ -21,48 +23,6 @@ section: home
 <section class="home__works">
   <h2 class="section-title">Featured Work</h2>
   {% include "components/featured_works.njk" %}
-  {# <ul class="home__works__list">
-    <li>
-      <div class="home__works__img home__works__img__inquirer">
-        <img src="/static/img/philadelphia-inquirer.svg" alt="Philadelphia Inquirer" />
-      </div>
-      <div class="home__works__text">
-        <p class="home__works__default">
-          Staff Writer, AAAS Mass Media Fellow & contributing photographer. Wrote for Inquirer’s Health & Science desk, with an average of 7,550 online readers.
-        </p>
-      </div>
-    </li>
-    <li>
-      <div class="home__works__img">
-        <img src="/static/img/skype-a-scientist.jpg" alt="Skype a Scientist" />
-      </div>
-      <div class="home__works__text">
-        <p class="home__works__default">
-          Taught classrooms from around the country about arachnid ecology and behavior through Q&A and guided observation of live animals conducted via video chat.
-        </p>
-      </div>
-    </li>
-    <li>
-      <div class="home__works__img">
-        <img src="/static/img/arachno-files.png" alt="ArachnoFiles" />
-      </div>
-      <div class="home__works__text">
-        <p class="home__works__default">
-          Founder, editor and writer of group blog where amateur and professional arachnologists write about arachnids for the public.
-        </p>
-      </div>
-    </li>
-    <li>
-      <div class="home__works__img">
-        <img src="/static/img/distillations.png" alt="Distillations" />
-      </div>
-      <div class="home__works__text">
-        <p class="home__works__default">
-          Founder, editor and writer of group blog where amateur and professional arachnologists write about arachnids for the public.
-        </p>
-      </div>
-    </li>
-  </ul> #}
 </div>
 
 <div class="home__blog-articles">
