@@ -1,12 +1,12 @@
-  {% set appearanceslist = collections.mediaAppearances %}
-  <ul>
-    {% for item in appearanceslist %}
-      <li><a href="{{ item.data.link }}" >
-      {% if item.data.img %}
-        <img src={{ item.data.img }} alt={{ item.data.name }} />
-      {% else %}
-        <div class="home__appearances__default">{{ item.data.name }}</div></a></li>
-      {% endif %}
-      </a></li>
-    {% endfor %}
-  </ul>
+{% set appearanceslist = collections['media appearances'][0] %}
+<ul>
+  {% for item in appearanceslist.data.appearances %}
+    <li><a href="{{ item.link }}" >
+    {% if item.img %}
+      <img src={{ item.img }} alt={{ item.name }} />
+    {% else %}
+      <div class="home__appearances__default">{{ item.name }}</div></a></li>
+    {% endif %}
+    </a></li>
+  {% endfor %}
+</ul>
