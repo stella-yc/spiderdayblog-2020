@@ -434,6 +434,7 @@ header nav li a[data-current="current item"] {
   font-size: 0.95rem;
   line-height: 1.7;
   color: white;
+  margin-bottom: 0.75rem;
 }
 
 @media screen and (min-width: 400px) {

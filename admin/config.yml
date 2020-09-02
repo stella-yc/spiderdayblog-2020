@@ -74,6 +74,15 @@ collections:
     fields:
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Image", name: "img", widget: "image" }
-      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Image Link", name: "link", widget: "string" }
       - { label: "Order", name: "order", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Links",
+          name: "links",
+          widget: "list",
+          summary: "{{fields.link}}",
+          fields:
+            - { label: Link, name: link, widget: string }
+            - { label: linkTitle, name: title, widget: string }
+        }
