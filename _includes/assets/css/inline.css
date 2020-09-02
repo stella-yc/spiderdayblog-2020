@@ -437,6 +437,11 @@ header nav li a[data-current="current item"] {
   margin-bottom: 0.75rem;
 }
 
+.home__works__link::before {
+  /* content: "\b7\a0"; */
+  /* font-size: 31rem; */
+}
+
 @media screen and (min-width: 400px) {
   .home__works__list > li {
     flex-flow: row nowrap;

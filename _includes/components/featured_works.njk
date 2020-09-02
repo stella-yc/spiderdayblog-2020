@@ -12,7 +12,13 @@
         <p>
           {{ item.data.summary }}
         </p>
-        <a href="{{item.data.link}}">More</a>
+        {% if item.data.links %}
+          {% for link in item.data.links %}
+            <a class="home__works__link" href="{{link.url}}">
+              {{link.title}}
+            </a>
+          {% endfor %}
+        {% endif %}
       </div>
     </li>
   {% endfor %}

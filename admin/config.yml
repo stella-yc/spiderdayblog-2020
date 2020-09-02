@@ -83,3 +83,9 @@ collections:
         fields:
           - { label: "Url", name: "url", widget: "string" }
           - { label: "Title", name: "title", widget: "string" }
+  - name: "mediaAppearancesList"
+    label: "Media Appearances List"
+    folder: "mediaAppearances"
+    create: false
+    fields:
+      - { label: "Appearances", name: "appearances", widget: "list" }
