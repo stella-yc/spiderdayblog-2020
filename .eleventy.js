@@ -32,11 +32,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("mediaAppearances", function (collectionApi) {
     const results = collectionApi.getFilteredByTags("mediaAppearance");
     const appearances = [...results];
-    console.log(
-      appearances.sort(function (a, b) {
-        return a.data.order - b.data.order;
-      })
-    );
+    return appearances.sort(function (a, b) {
+      return a.data.order - b.data.order;
+    });
+  });
+
+  eleventyConfig.addCollection("featuredWork", function (collectionApi) {
+    const results = collectionApi.getFilteredByTags("work");
+    const appearances = [...results];
     return appearances.sort(function (a, b) {
       return a.data.order - b.data.order;
     });

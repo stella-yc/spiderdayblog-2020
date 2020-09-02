@@ -1,6 +1,6 @@
   {% set appearanceslist = collections.mediaAppearances %}
   <ul>
-    {% for item in appearanceslist|sort(false, false, 'order') %}
+    {% for item in appearanceslist %}
       <li><a href="{{ item.data.link }}" >
       {% if item.data.img %}
         <img src={{ item.data.img }} alt={{ item.data.name }} />

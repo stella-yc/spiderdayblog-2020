@@ -65,3 +65,15 @@ collections:
       - { label: "Image", name: "img", widget: "image" }
       - { label: "Link", name: "link", widget: "string" }
       - { label: "Order", name: "order", widget: "number" }
+  # Works
+  - name: "works"
+    label: "Featured Work"
+    folder: "works"
+    create: true
+    slug: "{{fields.name}}"
+    fields:
+      - { label: "Name", name: "name", widget: "string" }
+      - { label: "Image", name: "img", widget: "image" }
+      - { label: "Link", name: "link", widget: "string" }
+      - { label: "Order", name: "order", widget: "number" }
+      - { label: "Body", name: "body", widget: "markdown" }

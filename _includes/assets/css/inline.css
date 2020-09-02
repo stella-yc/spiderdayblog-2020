@@ -100,6 +100,9 @@ main {
 .col__left {
   max-width: 700px;
 }
+.page__content {
+  margin: 0 auto;
+}
 
 main :first-child,
 main > article :first-child {
@@ -206,14 +209,24 @@ header nav li a[data-current="current item"] {
 /***************************/
 
 .section-title {
+  margin-bottom: 0.9rem;
+  display: inline-block;
+  vertical-align: text-top;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
   font-family: "Roboto", sans-serif;
 }
+
 .hero {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
   align-items: flex-start;
   max-width: 1150px;
+  margin: 0 auto;
 }
 
 @media screen and (min-width: 710px) {
@@ -382,8 +395,8 @@ header nav li a[data-current="current item"] {
 }
 
 .home__works__img {
-  width: 100%;
-  height: 180px;
+  width: 120px;
+  height: 120px;
   overflow: hidden;
   object-fit: cover;
   margin-bottom: 1rem;
@@ -426,17 +439,15 @@ header nav li a[data-current="current item"] {
 @media screen and (min-width: 400px) {
   .home__works__list > li {
     flex-flow: row nowrap;
-    height: 160px;
+    height: 150px;
   }
 
   .home__works__text {
-    width: 70%;
+    width: 80%;
     height: fit-content;
   }
 
   .home__works__img {
-    width: 35%;
-    height: 100%;
     margin: 0 2rem 0 0;
   }
 }

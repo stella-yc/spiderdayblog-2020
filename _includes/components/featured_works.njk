@@ -1,0 +1,18 @@
+{% set workList = collections.featuredWork %}
+
+ <ul class="home__works__list">
+  {% for item in workList %}
+    <li>
+      <div class="home__works__img">
+        <a href="{{item.data.link}}">
+          <img src="{{item.data.img}}" alt="{{item.data.name}}" />
+        </a>
+      </div>
+      <div class="home__works__text">
+        <p>
+          {{ item.data.summary }}
+        </p>
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
