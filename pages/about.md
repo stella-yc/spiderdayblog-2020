@@ -6,8 +6,8 @@ permalink: /about/index.html
 eleventyNavigation:
   key: About
   order: 6
-profilepic: /static/img/img_20191016_094929_026.jpg
-profilealt: "An accurate representation of myself"
+imagePrimary: /static/img/img_20191016_094929_026.jpg
+imagePrimaryAlt: An accurate representation of myself
 ---
 
 I am a scientist, educator, and science communicator based in Pittsburgh, PA. I study how and why animals use color, shape, and movement to talk to each other! In particular, I am interested in how jumping spiders get their audience's attention when performing their spectacular courtship dances. My favorite part of science is sharing it with others through formal and informal teaching, science writing, social media, and outreach events.

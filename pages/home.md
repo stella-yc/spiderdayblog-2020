@@ -6,6 +6,10 @@ permalink: /
 eleventyNavigation:
   key: Home
   order: 0
+imagePrimary: static/img/sebastian-outdoors.jpg
+imagePrimaryAlt: "Sebastian Echeverri is outdoors with his camera gear for wildlife photography"
+imageSecondary: static/img/jumping-spider-hi.jpeg
+imageSecondaryAlt: "A jumping spider peeking out from under a leaf"
 ---
 
 Sebastian A. Echeverri, Ph.D., is a scientist, educator, journalist and photographer.

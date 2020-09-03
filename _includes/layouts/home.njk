@@ -10,8 +10,7 @@ section: home
   </div>
 
   <div class="hero__image">
-    <img src="static/img/sebastian-outdoors.jpg" alt="Sebastian Echeverri is outdoors with his camera gear for wildlife photography" />
-    {# <img src="static/img/img_20191016_094929_026.jpg" alt="Sebastian Echeverri smiling." /> #}
+    <img src="{{imagePrimary}}" alt="{{imagePrimaryAlt}}" />
   </div>
 </section>
 
@@ -29,4 +28,8 @@ section: home
   <h2 class="section-title">Latest blog posts</h2>
   {% set postslist = collections.post %}
   {% include "components/postslisttop3.njk" %}
+</div>
+
+<div class="home__secondary-img">
+  <img src="{{imageSecondary}}" alt="{{imageSecondaryAlt}}" />
 </div>

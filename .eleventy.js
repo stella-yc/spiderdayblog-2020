@@ -29,6 +29,12 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
+  eleventyConfig.addCollection("test", function (collectionApi) {
+    const results = collectionApi.getFilteredByTags("page");
+    console.log(results[0].data.imagePrimary);
+    return results;
+  });
+
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
