@@ -517,6 +517,11 @@ header nav li a[data-current="current item"] {
   margin: 0;
 }
 
+.home__secondary-img.middle {
+  max-height: 450px;
+  overflow: hidden;
+}
+
 /***************************/
 /* PAGES */
 /***************************/
@@ -537,7 +542,7 @@ header nav li a[data-current="current item"] {
   margin-bottom: 1em;
   padding-bottom: 1em;
   border-bottom: 1px solid #eee;
-  border-bottom: 1px solid var(--primary);
+  border-bottom: 1px solid var(--grey4);
 }
 .post__hero-image-wrapper {
   display: block;
@@ -681,7 +686,7 @@ a[rel="tag"]:last-child {
   width: 250px;
   height: 250px;
   object-fit: cover;
-  margin: 0 auto;
+  margin: 0 auto 2rem;
 }
 
 /* Contact Form */
