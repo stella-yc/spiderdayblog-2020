@@ -9,7 +9,7 @@ appearances:
     link: https://www.youtube.com/watch?v=oqOTWylyi9c
   - name: Conservation Cast
     link: https://www.twitch.tv/videos/637871441
-    img: /static/img/conservation-cast-promo.jpg
+    img: /static/img/conservation-cast-promo-sq.jpg
   - name: Every Little Thing
     img: /static/img/1200x630bb.jpg
     link: https://gimletmedia.com/shows/every-little-thing/mehww8o/frozen-food-how-long-is-too-long
