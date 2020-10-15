@@ -13,9 +13,6 @@ appearances:
   - name: Every Little Thing
     img: /static/img/1200x630bb.jpg
     link: https://gimletmedia.com/shows/every-little-thing/mehww8o/frozen-food-how-long-is-too-long
-  - name: The Frizzle Factor
-    img: /static/img/frizzle-factor.jpg
-    link: https://castbox.fm/episode/Science%2C-Spiders%2C-and-Sebastian-Echeverri-id2608046-id227002891?country=us
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
