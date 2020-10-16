@@ -11,6 +11,6 @@ layout: layouts/home.njk
 imageSecondary: static/img/jumping-spider-hi.jpeg
 imageSecondaryAlt: A jumping spider peeking out from under a leaf
 ---
-Sebastian Alejandro Echeverri is a scientist, educator, journalist and photographer.
+Hi! I'm Sebastian Alejandro Echeverri. I am a scientist, educator, journalist, and photographer.
 
-His mission is to spark curiosity in the natural world, and make science more accessible, inclusive and joyful for people of all ages and backgrounds.
+My mission is to spark curiosity in the natural world, and make science (and spiders!) more accessible, inclusive and joyful for people of all ages and backgrounds.
