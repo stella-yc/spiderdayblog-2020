@@ -48,25 +48,25 @@ collections:
           label: "Primary Image",
           name: "imagePrimary",
           widget: "image",
-          required: "false",
+          required: false,
         }
       - {
           label: "Primary Alt Text",
           name: "imagePrimaryAlt",
           widget: "string",
-          required: "false",
+          required: false,
         }
       - {
           label: "Secondary Image",
           name: "imageSecondary",
           widget: "image",
-          required: "false",
+          required: false,
         }
       - {
           label: "Secondary Alt Text",
           name: "imageSecondaryAlt",
           widget: "string",
-          required: "false",
+          required: false,
         }
   # Authors
   - name: "authors"
