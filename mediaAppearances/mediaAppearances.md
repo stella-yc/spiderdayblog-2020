@@ -28,6 +28,15 @@ appearances:
   - name: Frizzle Factor
     img: /static/img/frizzle-factor.jpg
     link: https://castbox.fm/episode/Science%2C-Spiders%2C-and-Sebastian-Echeverri-id2608046-id227002891
+  - name: Surface Learning
+    link: https://soundcloud.com/user-311800173/episode-12-jumping-spiders-with-dr-sebastian-echeverri
+    img: /static/img/surface-learning.jpg
+  - link: https://www.youtube.com/watch?v=WXk4p_rW4lA&list=PL8tSTx4kQ65mLlIegtZijwPdBsm3haGYj&index=2
+    name: Carnegie Museum of Natural History
+    img: /static/img/cmnh_stacked-logo.jpg
+  - name: Wood Street Galleries
+    img: /static/img/woodstreet-galleries-logo.png
+    link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
 tags:
   - media appearances
 ---
