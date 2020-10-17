@@ -49,6 +49,7 @@ h6 {
   line-height: 1.3;
   font-weight: 500;
   margin: 0 0 1.4rem 0;
+  color: var(--white);
 }
 
 h1 {
@@ -59,6 +60,13 @@ h1 {
 
 h2 {
   font-size: 1.6rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 0.4rem;
 }
 
 p,
@@ -410,7 +418,7 @@ header nav li a[data-current="current item"] {
   }
 
   .home__works__list > li {
-    margin: 0 auto;
+    margin: 0.3rem auto;
   }
 }
 
