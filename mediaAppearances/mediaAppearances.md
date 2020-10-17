@@ -2,7 +2,7 @@
 name: Media Appearances List
 appearances:
   - name: Bama Bug Fest
-    img: /static/img/bama-bug-fest.jpg
+    img: /static/img/bama-bug-fest-square_black.png
     link: https://www.youtube.com/watch?v=VmJdXdIiCBc&list=PL0p3Noz5BSA8ZgDsmSBW_C7S6QqFALpZb&index=7
   - name: The Big Fib
     img: /static/img/download.png
