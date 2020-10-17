@@ -16,9 +16,9 @@ appearances:
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
-  - name: School of Batman
-    img: /static/img/school-of-batman.jpg
-    link: https://soundcloud.com/schoolofbatman/the-case-of-the-spider-splicers-sebastian-alejandro-echeverri
+  - name: Popular Science
+    img: /static/img/popsci-logo.png
+    link: https://www.popsci.com/jumping-spiders-dance-moves
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
     link: https://podcasts.apple.com/us/podcast/tainted-love-part-1-spider-speed-dating-sebastian-echeverri/id1287125533?i=100046559062
