@@ -28,6 +28,9 @@ appearances:
   - name: School of Batman
     img: /static/img/school-of-batman.jpg
     link: https://soundcloud.com/schoolofbatman/the-case-of-the-spider-splicers-sebastian-alejandro-echeverri
+  - name: Science Friday
+    img: /static/img/sci-fri-logo.png
+    link: https://www.sciencefriday.com/articles/science-friday-summer-institute-2020/
   - name: Surface Learning
     link: https://soundcloud.com/user-311800173/episode-12-jumping-spiders-with-dr-sebastian-echeverri
     img: /static/img/surface-learning_bw.png
