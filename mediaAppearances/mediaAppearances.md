@@ -5,7 +5,7 @@ appearances:
     img: /static/img/bama-bug-fest.jpg
     link: https://www.youtube.com/watch?v=VmJdXdIiCBc&list=PL0p3Noz5BSA8ZgDsmSBW_C7S6QqFALpZb&index=7
   - name: The Big Fib
-    img: /static/img/the-big-fib.png
+    img: /static/img/download.png
     link: https://www.youtube.com/watch?v=oqOTWylyi9c
   - name: Conservation Cast
     link: https://www.twitch.tv/videos/637871441
