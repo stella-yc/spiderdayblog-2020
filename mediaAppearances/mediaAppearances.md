@@ -17,7 +17,7 @@ appearances:
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
   - name: Popular Science
-    img: /static/img/popsci-logo.png
+    img: /static/img/original-1513626754-62a5c8654a7b18d215eb18989f595ad8.png
     link: https://www.popsci.com/jumping-spiders-dance-moves
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
