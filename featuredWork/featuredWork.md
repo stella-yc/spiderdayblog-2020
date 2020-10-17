@@ -13,10 +13,9 @@ works:
       - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
         title: Readership Statistics (as of Feb 2020)
     body: As a 2019 AAAS Mass Media Fellow, I worked as a staff writer and
-      contributing photographer for The Philadelphia Inquirer. I covered
-      science, technology, and nature news from breakthroughs in terraforming
-      Mars, to the saga of an endemic spider that is quite literally "West
-      Philly, born and raised".
+      contributing photographer for the Inquirer. I covered science, technology,
+      and nature news, from breakthroughs in terraforming Mars to the story of
+      an endemic spider that is quite literally "West Philly, born and raised".
   - name: Distillations
     img: /static/img/distillations.png
     link: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
@@ -25,7 +24,7 @@ works:
       - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
         title: "\"How Philadelphia's Water Pollution Problems Shaped the City\""
     body: I worked as an assistant producer and guest host for an episode of the
-      Science History Institute's *Distillations* podcast. We explored the saga
+      Science History Institute's  podcast, Distillations. We explored the saga
       of science, corruption, and history behind how Philly gets and uses its
       water.
   - name: Arachnofiles
@@ -49,7 +48,7 @@ works:
       - url: https://www.youtube.com/watch?v=ihsniD3OR7g
         title: "Skype a Scientist Live: Spiders"
     body: I (digitally) visit K-12 classrooms via Skype a Scientist to talk about
-      arachnids! Visits include Q&As and guided observations of live arachnids.
+      arachnids, answer student questions, and introduce them to live spiders!
 tags:
   - featured work
 ---
