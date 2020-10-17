@@ -44,13 +44,29 @@ collections:
           - { label: "Key", name: "key", widget: "string" }
           - { label: "Order", name: "order", widget: "number", default: 0 }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Primary Image", name: "imagePrimary", widget: "image" }
-      - { label: "Primary Alt Text", name: "imagePrimaryAlt", widget: "string" }
-      - { label: "Secondary Image", name: "imageSecondary", widget: "image" }
+      - {
+          label: "Primary Image",
+          name: "imagePrimary",
+          widget: "image",
+          required: "false",
+        }
+      - {
+          label: "Primary Alt Text",
+          name: "imagePrimaryAlt",
+          widget: "string",
+          required: "false",
+        }
+      - {
+          label: "Secondary Image",
+          name: "imageSecondary",
+          widget: "image",
+          required: "false",
+        }
       - {
           label: "Secondary Alt Text",
           name: "imageSecondaryAlt",
           widget: "string",
+          required: "false",
         }
   # Authors
   - name: "authors"
