@@ -18,16 +18,16 @@ appearances:
     link: https://www.popsci.com/jumping-spiders-dance-moves
   - link: https://www.youtube.com/watch?v=WXk4p_rW4lA&list=PL8tSTx4kQ65mLlIegtZijwPdBsm3haGYj&index=2
     name: Carnegie Museum of Natural History
-    img: /static/img/cmnh_stacked-logo.jpg
+    img: /static/img/cmnh_stacked-logo_bw.png
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
   - name: Wood Street Galleries
-    img: /static/img/woodstreet-galleries-logo.png
+    img: /static/img/woodstreet-galleries-logo_on-black.png
     link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
   - name: Surface Learning
     link: https://soundcloud.com/user-311800173/episode-12-jumping-spiders-with-dr-sebastian-echeverri
-    img: /static/img/surface-learning.jpg
+    img: /static/img/surface-learning_bw.png
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
     link: https://podcasts.apple.com/us/podcast/tainted-love-part-1-spider-speed-dating-sebastian-echeverri/id1287125533?i=100046559062
