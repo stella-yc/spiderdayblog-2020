@@ -22,6 +22,9 @@ appearances:
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
+  - name: Nagging Naturalist Podcast
+    img: /static/img/nagging-naturalist_sq.png
+    link: https://anchor.fm/the-nagging-naturalist/episodes/Arachtober-Interview-with-Dr--Sebastian-Echeverri-elcc0h
   - name: Popular Science
     img: /static/img/original-1513626754-62a5c8654a7b18d215eb18989f595ad8.png
     link: https://www.popsci.com/jumping-spiders-dance-moves
