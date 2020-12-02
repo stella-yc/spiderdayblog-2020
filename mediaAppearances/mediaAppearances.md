@@ -40,6 +40,9 @@ appearances:
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
     link: https://podcasts.apple.com/us/podcast/tainted-love-part-1-spider-speed-dating-sebastian-echeverri/id1287125533?i=100046559062
+  - name: Virtual NightLife
+    img: /static/img/cal-academy-virtual-nightlife_sq.jpg
+    link: https://youtu.be/4-nNtN2mLlg?t=1379
   - name: Wood Street Galleries
     img: /static/img/woodstreet-galleries-logo_on-black.png
     link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
