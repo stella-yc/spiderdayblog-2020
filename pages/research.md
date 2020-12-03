@@ -4,7 +4,7 @@ date: 2017-01-01T00:00:00.000Z
 permalink: /research/index.html
 eleventyNavigation:
   key: Research
-  order: 3
+  order: 2
 ---
 I am interested in the complex relationship between animals’ eyes, their environment, and how they use color, shape, and movement to talk with each other.
 
