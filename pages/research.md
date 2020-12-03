@@ -12,7 +12,7 @@ I am interested in the complex relationship between animals’ eyes, their envir
 
 ## How do tarantula eyes evolve when species adapt to different lifestyles?
 
-
+Check back soon for more on this project!
 
 ### PhD Research
 
@@ -37,6 +37,12 @@ How big of a problem is this? By tracking the behavior of males and females duri
 I published this research in Behavioral Ecology ([Echeverri et al. 2017](https://academic.oup.com/beheco/article/28/6/1445/4091426)), and it was covered by [Popular Science](https://www.popsci.com/jumping-spiders-dance-moves).
 
 ## How best to catch her (primary) eyes?
+
+To increase the chances that his colors are visible, *H. pyrrithrix* males may have evolved ways to get females to turn and face him.  In the first part of their dance, males wave their arms up and down, Just like we might flag down someone from a distance. 
+
+
+
+To communicate effectively, signalers must capture the attention of potential receivers, and may do so with conspicuous “alerting” displays. Although many animals use alerting displays, we know relatively little about how display variation and the sensory environment affect attention capture, especially in arthropods. In the jumping spider Habronattus pyrrithrix, males perform a complex courtship dance that includes elaborate movements and colorful ornaments. However, females can only see a male’s colors when facing him. While females often turn away from courting males, males perform a waving display that may function to capture and/or redirect her attention. However, males show intraspecific display variation, which may be linked to spatial and/or temporal variation in the visual environments they display in. Using video playback, we asked how signal variation and visual environment affected how effectively a display attracted female attention. We then asked whether and how males alter their displays in response to variation in their signaling environment. We found that increasing background complexity decreased female responsiveness in general, but male waving displays continued to effectively attract female attention even under increasingly complex signaling conditions. Males adjusted their displays in different signaling conditions by 1) performing larger waving displays when farther from the female, and 2) courting at a closer distance in more complex environments. These behaviors should improve signal effectiveness by increasing the size of the male display in the female’s field of view. Males vary in the extent of this plastic response, possibly providing females information on cognitive ability, effort, and/or condition. 
 
 Testing how male jumping spiders might grab a female's attention 
 
