@@ -6,17 +6,24 @@ eleventyNavigation:
   key: Art
   order: 4
 ---
+## My Photography
 
-## Photography
+![](/static/img/20200607-sae_2613.jpg)
 
 I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for just (all) of the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings).
 
-For macro photography, I use a Nikon D7500 body, a set of Kenko extension tubes, and either a Nikon 18-55mm or 50-200mm lens. I light my shots with a NEEWER Speedlite 750ii, and am currently using [this diffuser](https://www.bhphotovideo.com/c/product/1499346-REG/angler_psfd_100_portable_speedlight_flash_diffuser.html) from B&H. For larger subjects, I use a Tamron 16-300mm telephoto.
+**I am available for freelance photography work!** Do you or your organization need high quality photos of an animal? Please get in touch (email spiderdaynightlive \[at] gmail.com) for details and rates.
 
-If you are interested in macro photography, but are on a budget, there are very decent clip-on macro lenses for your smartphone available on Amazon. Search "clip-on macro lens" - usually they are ~15\$ dollars.
+**Photo print store coming soon!**
 
-![Linyphiid spider](/static/img/20190923-money-spider_2019-09.jpg)
+## My Gear
+
+For macro photography, I use a Nikon D7500 body and a Laowa 100mm 2x macro lens. I light my shots with a NEEWER Speedlite 750ii, and am currently using [this diffuser](https://www.bhphotovideo.com/c/product/1499346-REG/angler_psfd_100_portable_speedlight_flash_diffuser.html) from B&H. For larger subjects, I use a Tamron 16-300mm telephoto.
+
+If you are interested in macro photography, but are on a budget, there are very decent clip-on macro lenses for your smartphone available on Amazon. Search "clip-on macro lens" - usually they are ~15$ dollars.
 
 ## Illustration
+
+![](/static/img/spider-doodle-500x.png)
 
 I am also learning natural history-style illustration. Currently, I'm working with pen (PaperMate InkJoy 300) on paper.
