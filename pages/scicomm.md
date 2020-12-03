@@ -8,6 +8,8 @@ eleventyNavigation:
 ---
 My favorite part of being a scientist is making science accessible and exciting! I believe that science - both as a career, and a casual interest - is for everyone, and quality science communication is critical to making this idea true. As a Hispanic immigrant, I am also committed to making sure that people of all backgrounds feel represented and welcomed in science.
 
+I'd love to be on your podcast, TV show, or other platform to talk everything about spider science and animal eyes! Get in touch!
+
 ## Outreach
 
 ![](/static/img/sae_outreach.jpg)
@@ -16,7 +18,7 @@ For the past six years, I've been building fun ways to connect people to science
 
 I have a collection of wonderful outreach spiders (and other arachnids) that have joined me for shows at the Carnegie Museum of Natural History, Phipps Conservatory & Botanical Gardens, Pittsburgh Children's Museum, local schools, and learners across the world via streaming video.
 
-If you would like to book a virtual Spider Show for your classroom, birthday, or other event, please get in touch (email me at spiderdaynightlive \[at] gmail.com) for rates and details!
+If you would like to book a virtual Spider Show for your classroom, birthday, or other event, please get in touch (email spiderdaynightlive \[at] gmail.com) for rates and details!
 
 ## Science Journalism
 
