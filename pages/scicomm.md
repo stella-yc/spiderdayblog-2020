@@ -26,7 +26,7 @@ I love turning complex science into engaging stories! In 2019, I worked as a sci
 
 While in Philly, I also worked as an assistant producer and guest host for an episode of the Science History Institute's podcast, *Distillations*! We explored the saga of science, corruption, and history behind [how Philly gets and uses its water](https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city).
 
-Throughout my PhD, I also covered breaking science livetweeting research conferences on social media. Take a digital trip through some of the exciting research presented at [SICB 2020](http://bit.do/SAE-SICB2020-Tweets), [Arachnology 2019](http://bit.do/SAE-Arachno19-Tweet), and [Animal Behavior 2018](http://bit.do/SAE-ABS2018-Tweets)!
+Throughout my PhD, I also covered breaking research by livetweeting the scientific conferences I attended. Take a digital trip through some of the exciting science presented at [SICB 2020](http://bit.do/SAE-SICB2020-Tweets), [Arachnology 2019](http://bit.do/SAE-Arachno19-Tweet), and [Animal Behavior 2018](http://bit.do/SAE-ABS2018-Tweets)!
 
 ## Teaching
 
