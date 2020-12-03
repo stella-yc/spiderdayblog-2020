@@ -42,11 +42,11 @@ Testing how male jumping spiders might grab a female's attention
 
 ### Undergraduate Research
 
+
+
 ### When birds evolve to build together, who helps, and why?
 
-## How best to catch her eyes? Attention-grabbing courtship in jumping spiders
 
-How do we manage to stand out from the crowd when trying to communicate? The world is a visually complex place - there are always more things to look at, especially out in nature. Processing what we see takes a lot of brain power, so we can usually only focus on one thing at a time, and the same is true for animals. So, when an animal tries to send a message through a a courtship dance, or some other visual display, they have to first make sure that their audience is paying attention. Capturing attention is a problem that many animals need to solve, but we only know about how a select few manage to do so. I study how male jumping spiders attract the female’s attention during courtship.
 
 We think that males have evolved ways to get females to turn around and face him. Males wave their front pair of legs back and forth when approaching a female - just like we might wave to someone from across a room! We are currently testing whether jumping spider waves work in the same way to get a female’s attention.
 
