@@ -22,7 +22,7 @@ For a full presentation of my research, check out my [PhD defense on YouTube](ht
 
 The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spatial ("spacing-based") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message (Fig 1). 
 
-![](/static/img/hapy-alignment_text.png "Fig 1. Color communication in Habronattus requires signal alignment")
+![](/static/img/research-fig-1_2x1.png "Fig 1. Color communication in Habronattus requires signal alignment")
 
 > **Figure 1.** For paradise jumping spiders (genus *Habronattus*) whether or not a dancing males' lovely colors can be seen by his female audience depends on how both animals position themselves. Males' colors can only be seen from the front, and only the spiders' forward-facing primary eyes can see in color. Photos and spider illustrations by Dr. Daniel Zurek.
 
@@ -39,6 +39,10 @@ I published this research in Behavioral Ecology ([Echeverri et al. 2017](https:/
 ## How best to catch her (primary) eyes?
 
 To increase the chances that his colors are visible, *H. pyrrithrix* males may have evolved ways to get females to turn and face him.  In the first part of their dance, males repeatedly wave their 1st pair of legs up and down, just like we might flag down someone from a distance. But, what's going on around the male might change how easily he stands out.
+
+![](/static/img/2016-06-29-17.44.49.jpg "Fig 3. Female spiders viewed animated males on large video monitors")
+
+> **Figure 3.** To find out what females found more interesting, we showed her videos on two computer monitors. We could tell what she wanted to look at based on the direction that she spun the foam ball she was holding.
 
 By asking female spiders to choose between looking at animations of waving and non-waving males presented on different backgrounds, I learned that these movements are an excellent way of getting her attention. And, by filming real males courting females in front of the same backgrounds, I discovered that these spiders change how they dance in response to their surroundings! When far away, males make bigger leg movemnts, and when the background is more distracting, they dance from closer to the female. 
 
