@@ -10,7 +10,7 @@ My favorite part of being a scientist is making science accessible and exciting!
 
 ## Outreach
 
-![](/static/img/sae_outreach.jpg)
+![](/static/img/sae_outreach.jpg "Sebastian talks to two kids about local spiders")
 
 For the past six years, I've been building fun ways to connect people to science. Between classroom visits, museum activity stations, guest lectures, and afterschool programs, I've designed and presented educational experiences for students of every age, from Pre-K to adults and everyone in between.
 
@@ -20,7 +20,7 @@ I have a collection of wonderful outreach spiders (and other arachnids) that hav
 
 ## Science Journalism
 
-![Sebastian in the Philly Inquirer newsroom, holding an issue of his story on Spider-Man's powers. On the table is his pet tarantula.](/static/img/20190717-img_-ngx0xy.jpg)
+![The tarantula's name is Isabel, btw.](/static/img/20190717-img_-ngx0xy.jpg "Sebastian in the Philly Inquirer newsroom, holding an issue of his story on Spider-Man's powers. On the table is his pet tarantula.")
 
 I love turning complex science into engaging stories! In 2019, I worked as a science reporter at the *Philadelphia Inquirer* as part of the AAAS Mass Media program. I covered everything from terraforming mars, the invention of snail-inspired superglue, to the spider science behind Spider-Man's powers. You can find [all of my stories here](https://www.inquirer.com/author/echeverri_sebastian/), and [my favorite one here](https://www.inquirer.com/science/volunteer-scientists-philadelphia-rare-pennsylvanian-purseweb-spider-mystery-animal-atypus-snetsingeri-20190824.html). It's about a rare spider that is literally "West Philadelphia, born and raised", and the dedicated volunteers studying it!
 
