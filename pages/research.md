@@ -8,13 +8,13 @@ eleventyNavigation:
 ---
 I am interested in the complex relationship between animals’ eyes, their environment, and how they use color, shape, and movement to talk with each other.
 
-### Current Research
+### **Current Research**
 
 ## How do tarantulas' eyes change when species adapt to different habitats?
 
 Animals' environment and lifestyle can shape how their eyes evolve. For example, species might evolve eyes that are good at seeing at night, or to have wide-set eyes to watch for predators in open and exposed environments.  While most tarantulas live in burrows in the ground, several species have independently adapted to living in trees.  Tarantulas have relatively small eyes compared to many other spiders, but people who keep pet tarantulas have noticed that the arboreal species *seem* to have larger eyes than their terrestrial cousins. I developed this project as an independent research opportunity for a high school student, and we are hard at work! Check back soon for more.
 
-### PhD Research
+### **PhD Research**
 
 For a full presentation of my research, check out my [PhD defense on YouTube](https://www.youtube.com/watch?v=qQAAh4lfF78&t=416s)! You can also find the PDF of my [dissertation here](http://d-scholarship.pitt.edu/37706/).
 
@@ -42,7 +42,7 @@ To increase the chances that his colors are visible, *H. pyrrithrix* males may h
 
 By asking female spiders to choose between looking at animations of waving and non-waving males presented on different backgrounds, I learned that these movements are an excellent way of getting her attention. And, by filming real males courting females in front of the same backgrounds, I discovered that these spiders change how they dance in response to their surroundings! When far away, males make bigger leg movemnts, and when the background is more distracting, they dance from closer to the female. 
 
-### Undergraduate Research
+### **Undergraduate Research**
 
 ## When birds evolve to build together, who helps, and why?
 
