@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Research
   order: 3
 ---
-### I am interested in the complex relationship between animals’ eyes, their environment, and how they use color, shape, and movement to communicate with each other.
+I am interested in the complex relationship between animals’ eyes, their environment, and how they use color, shape, and movement to communicate with each other.
 
 ### Current Research
 
@@ -20,31 +20,33 @@ For a full presentation of my research, check out my [PhD defense on YouTube](ht
 
 ## How does how animals position themselves change how they can communicate?
 
-The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spacing-based ("spatial") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message. 
+The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spatial ("spacing-based") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message (Fig 1). 
 
 ![](/static/img/hapy-alignment_text.png "Fig 1. Color communication in Habronattus requires signal alignment")
 
-> For paradise jumping spiders (genus *Habronattus*) whether or not a dancing males' lovely colors can be seen by his female audience depends on how both animals move. Males' colors can only be seen from the front, and only the spiders' forward facing primary eyes can see in color. Photos and spider illustrations by Daniel Zurek.
+> **Figure 1.** For paradise jumping spiders (genus *Habronattus*) whether or not a dancing males' lovely colors can be seen by his female audience depends on how both animals position themselves. Males' colors can only be seen from the front, and only the spiders' forward-facing primary eyes can see in color. Photos and spider illustrations by Daniel Zurek.
 
 Because it can be much easier to communicate if both the presenter and their audience move into the right positions, animals might be under pressure to evolve ways to make sure this happens. But, for a long time, we haven't studied this important part of communication. In the first part of my PhD, I reviewed the reasons behind the spatial limitations on sensors and signals, what (little) we know about how animals position themselves, and how we can use new technology to learn more.
 
 ## When paradise spiders dance, where does their audience look?
 
-## How best to catch her (eight) eyes?
+Male fiery-haired paradise spiders (*Habronattus pyrrithrix*) put on a [spectacular song and dance show](https://www.youtube.com/watch?v=YEQ3KM4tKLc) to impress females, but there's a potential problem. Males' colors can only be seen from the front, and while the spiders' eight eyes give them an almost 360-degree field of view, some of those eyes see differently. Only the spiders' forward-facing primary eyes can see in color and in high-resolution. Their multiple pairs of secondary eyes are great for detecting movement, but see in black-and-white and blurrier. So, what she sees depends on how both spiders move (Fig 1)!
+
+How big of a problem is this? By tracking the behavior of males and females during courtship, I discovered that, on average, females can see a male’s colors only 30% of the time! While males always aimed their dancing towards females, females often turned to face elsewhere (perhaps watching for predators, or prey). In the second part of their courtship, males seem to wait until females are watching before showing off their more impressive dance moves.
+
+I published this research in Behavioral Ecology ([Echeverri et al. 2017](https://academic.oup.com/beheco/article/28/6/1445/4091426)), and it was covered by [Popular Science](https://www.popsci.com/jumping-spiders-dance-moves).
+
+## How best to catch her (primary) eyes?
 
 Testing how male jumping spiders might grab a female's attention 
 
 ### Undergraduate Research
 
-## When birds evolve to build together, who helps, and why?
+### When birds evolve to build together, who helps, and why?
 
 ## How best to catch her eyes? Attention-grabbing courtship in jumping spiders
 
 How do we manage to stand out from the crowd when trying to communicate? The world is a visually complex place - there are always more things to look at, especially out in nature. Processing what we see takes a lot of brain power, so we can usually only focus on one thing at a time, and the same is true for animals. So, when an animal tries to send a message through a a courtship dance, or some other visual display, they have to first make sure that their audience is paying attention. Capturing attention is a problem that many animals need to solve, but we only know about how a select few manage to do so. I study how male jumping spiders attract the female’s attention during courtship.
-
-In some species of jumping spiders, males perform [elaborate courtship dances](https://www.youtube.com/watch?v=YEQ3KM4tKLc) to impress a female - but how a female sees a males’ display depends on whether or not she is facing towards him! This is because some of a jumping spider’s eight eyes are better than others – the two biggest forward-facing eyes (“primary eyes”) see the sharpest image, while the others are much blurrier, but have a very wide field of view. The primary eyes are also the only ones that can see in color. So if a female turns away from a male, she can still see him, but his wonderfully colorful ornaments are now blurry and in monochrome!
-
-How much of a problem is this for these spiders? We studied how male and female fiery-haired paradise jumpers (*Habronattus pyrrithrix*; native to the southwestern US and Mexico) positioned themselves during courtship. While males always directed their displays towards females, females often looked away from his dancing. In fact, females can see a male’s colors only 30% of the time! Since females are often looking elsewhere (perhaps watching for predators, or prey), males wait until females are watching intently before showing off their more impressive dance moves. This work was recently published in Behavioral Ecology ([Echeverri et al. 2017](https://academic.oup.com/beheco/article/28/6/1445/4091426)) and covered by [Popular Science](https://www.popsci.com/jumping-spiders-dance-moves).
 
 We think that males have evolved ways to get females to turn around and face him. Males wave their front pair of legs back and forth when approaching a female - just like we might wave to someone from across a room! We are currently testing whether jumping spider waves work in the same way to get a female’s attention.
 
