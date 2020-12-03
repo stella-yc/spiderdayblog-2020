@@ -16,7 +16,7 @@ For the past six years, I've been building fun ways to connect people to science
 
 I have a collection of wonderful outreach spiders (and other arachnids) that have joined me for shows at the Carnegie Museum of Natural History, Phipps Conservatory & Botanical Gardens, Pittsburgh Children's Museum, local schools, and learners across the world via streaming video.
 
-If you would like to book a virtual Spider Show for your classroom, birthday, or other event, please get in touch! You can email me at spiderdaynightlive \[at] gmail.com for rates and details.
+If you would like to book a virtual Spider Show for your classroom, birthday, or other event, please get in touch (email me at spiderdaynightlive \[at] gmail.com) for rates and details!
 
 ## Science Journalism
 
