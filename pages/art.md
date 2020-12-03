@@ -1,10 +1,10 @@
 ---
-title: Art
+title: Photos
 date: 2017-01-01T00:00:00.000Z
-permalink: /art/index.html
+permalink: /photos/index.html
 eleventyNavigation:
-  key: Art
-  order: 4
+  key: Photos
+  order: 3
 ---
 ## My Photography
 
