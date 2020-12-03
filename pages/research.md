@@ -32,6 +32,10 @@ Because it can be much easier to communicate if both the presenter and their aud
 
 Male fiery-haired paradise spiders (*Habronattus pyrrithrix*) put on a [spectacular song and dance show](https://www.youtube.com/watch?v=YEQ3KM4tKLc) to impress females, but there's a potential problem. Males' colors can only be seen from the front, and while the spiders' eight eyes give them an almost 360-degree field of view, some of those eyes see differently. Only the spiders' forward-facing primary eyes can see in color and in high-resolution. Their multiple pairs of secondary eyes are great for detecting movement, but see in black-and-white and blurrier. So, what she sees depends on how both spiders move (Fig 1)!
 
+![](/static/img/vlcsnap-error431.jpg "Fig 2. Female Habronattus jumping spiders often look away from dancing males")
+
+> **Figure 2.** Female *H. pyrrithrix* don't always pay full attention to courting males. Still from a video by Dr. Daniel Zurek and I.
+
 How big of a problem is this? By tracking the behavior of males and females during courtship, I discovered that, on average, females can see a male’s colors only 30% of the time! While males always aimed their dancing towards females, females often turned to face elsewhere (perhaps watching for predators, or prey). In the second part of their courtship, males seem to wait until females are watching before showing off their more impressive dance moves.
 
 I published this research in Behavioral Ecology ([Echeverri et al. 2017](https://academic.oup.com/beheco/article/28/6/1445/4091426)), and it was covered by [Popular Science](https://www.popsci.com/jumping-spiders-dance-moves).
