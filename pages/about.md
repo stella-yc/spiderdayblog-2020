@@ -36,3 +36,5 @@ You can find my [photography portfolio here](https://lightroom.adobe.com/shares/
 ## Attributions
 
 This wonderful website was made by my partner, Stella Chung. All other photos, figures, and drawings are my own unless noted.
+
+![](/static/img/20200825-sae_4311.jpg "Sebastian's spider room")
