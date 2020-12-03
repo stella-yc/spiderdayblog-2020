@@ -12,7 +12,7 @@ I am interested in the complex relationship between animals’ eyes, their envir
 
 ## How do tarantulas' eyes change when species adapt to different habitats?
 
-Animals' environment and lifestyle can shape how their eyes evolve. For example, species might evolve eyes that are good at seeing at night, or to have wide-set eyes to watch for predators in open and exposed environments.  While most tarantulas live in burrows in the ground, several species have independently adapted to living in trees.  Tarantulas have relatively small eyes compared to many other spiders, but people who keep pet tarantulas have noticed that the arboreal species *seem* to have larger eyes than their terrestrial cousins. I am working to test this idea, along with a high school student that I am mentoring. 
+Animals' environment and lifestyle can shape how their eyes evolve. For example, species might evolve eyes that are good at seeing at night, or to have wide-set eyes to watch for predators in open and exposed environments.  While most tarantulas live in burrows in the ground, several species have independently adapted to living in trees.  Tarantulas have relatively small eyes compared to many other spiders, but people who keep pet tarantulas have noticed that the arboreal species *seem* to have larger eyes than their terrestrial cousins. I developed this project as an independent research opportunity for a high school student, and we are hard at work! Check back soon for more.
 
 ### PhD Research
 
