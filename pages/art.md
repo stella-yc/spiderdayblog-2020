@@ -8,6 +8,8 @@ eleventyNavigation:
 ---
 ## My Photography
 
+### **Photo print store coming soon!**
+
 ![](/static/img/20200607-sae_2613.jpg "Sebastian's photo of a female Colonus sylvanus jumping spider")
 
 I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for just (all) of the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings).
@@ -15,8 +17,6 @@ I love using my camera to explore nature! You can find my [photography portfolio
 ### **I am available for freelance photography work!**
 
 Do you or your organization need high quality photos of an animal? Please get in touch (email spiderdaynightlive \[at] gmail \[dot] com) for details and rates.
-
-### **Photo print store coming soon!**
 
 ## My Gear
 
