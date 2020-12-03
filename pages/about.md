@@ -33,7 +33,11 @@ You can find all of my previous appearances on the home page of this site, or in
 
 You can find a list of my academic publications via [Google Scholar](https://scholar.google.com/citations?hl=en&user=Lkp7X1EAAAAJ), and can find my [complete CV here](https://docs.google.com/document/d/1b48e5DyXFUJyOAL09-jl9TgQs7sW10hw_G_y4Tc-uWY/edit?usp=sharing).
 
-You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2).
+You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). You can learn more about my teaching philosophy, see examples of my course materials, and see student feedback in [my teaching portfolio](https://drive.google.com/file/d/1cBVH9k1tu4Z6eVYAyYGGpq5pKoPoyZ9Y/view?usp=sharing).
+
+I also have [a YouTube channel](https://www.youtube.com/channel/UCG3xj7RS3_rKUOhF43mVMUA), featuring my research and outreach.
+
+
 
 ## Attributions
 
