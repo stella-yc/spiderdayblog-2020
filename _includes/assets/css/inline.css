@@ -296,7 +296,7 @@ header nav li a[data-current="current item"] {
   margin: 0 -2rem;
 }
 
-.hero__image > img {
+.hero__image img {
   display: block;
   border-radius: none;
   width: 100%;
@@ -311,7 +311,7 @@ header nav li a[data-current="current item"] {
     margin: 0;
   }
 
-  .hero__image > img {
+  .hero__image img {
     display: block;
     border-radius: 50%;
     width: 300px;
@@ -322,7 +322,7 @@ header nav li a[data-current="current item"] {
 }
 
 @media screen and (min-width: 850px) {
-  .hero__image > img {
+  .hero__image img {
     width: 350px;
     height: 350px;
   }
@@ -403,27 +403,16 @@ header nav li a[data-current="current item"] {
 }
 
 .home__works__img {
-  width: 100%;
+  width: 200px;
   height: 200px;
   overflow: hidden;
-  object-fit: cover;
-  margin-bottom: 1rem;
+  object-fit: contain;
+  margin-bottom: 1.5rem;
   border-radius: 8px;
 }
 
-@media screen and (min-width: 500px) {
-  .home__works__img {
-    width: 120px;
-    height: 120px;
-  }
-
-  .home__works__list > li {
-    margin: 0.3rem auto;
-  }
-}
-
-.home__works__img > img {
-  object-fit: cover;
+.home__works__img img {
+  object-fit: contain;
   width: 100%;
   overflow: hidden;
   height: 100%;
@@ -456,8 +445,15 @@ header nav li a[data-current="current item"] {
   margin-bottom: 0.75rem;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 500px) {
+  .home__works__img {
+    width: 120px;
+    height: 120px;
+    margin: 0 2rem 0 0;
+  }
+
   .home__works__list > li {
+    margin: 0.3rem auto;
     flex-flow: row nowrap;
     min-height: 150px;
   }
@@ -465,10 +461,6 @@ header nav li a[data-current="current item"] {
   .home__works__text {
     width: 80%;
     height: fit-content;
-  }
-
-  .home__works__img {
-    margin: 0 2rem 0 0;
   }
 }
 
