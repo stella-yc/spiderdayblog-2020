@@ -547,6 +547,7 @@ header nav li a[data-current="current item"] {
 .post__hero-image-wrapper {
   display: block;
   width: 100%;
+  border-radius: 8px;
 }
 
 .post__hero-image {
@@ -636,11 +637,16 @@ a[rel="tag"]:last-child {
   /* align-items: flex-start; */
 }
 
+.blog-post__hero {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
 .blog-post__tags {
   background-color: var(--grey2);
   padding: 2rem 1.75rem;
   border-radius: 8px;
-  margin-bottom: 1rem;
+  margin: 2rem 0 1rem !important;
   width: 70%;
 }
 
