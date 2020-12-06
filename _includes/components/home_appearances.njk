@@ -3,7 +3,7 @@
   {% for item in appearanceslist.data.appearances %}
     <li><a href="{{ item.link }}" >
     {% if item.img %}
-      <img src={{ item.img }} alt={{ item.name }} />
+      <img src={{ item.img }} alt={{ item.name }} loading="lazy" />
     {% else %}
       <div class="home__appearances__default">{{ item.name }}</div></a></li>
     {% endif %}

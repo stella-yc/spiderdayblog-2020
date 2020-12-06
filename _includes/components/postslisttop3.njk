@@ -4,7 +4,7 @@
 		<article class="post__article" {% if post.url == url %} data-current="current item"{% endif %}>
 			{% if post.data.image %}
 				<a href="{{ post.url | url }}" class="post__hero-image-wrapper">
-					<img alt="" src={{ post.data.image }} class="post__hero-image" />
+					<img alt="" src={{ post.data.image }} class="post__hero-image" loading="lazy" />
 				</a>
 			{%- endif -%}
 			<div>
