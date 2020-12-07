@@ -1,6 +1,9 @@
 ---
 name: Media Appearances List
 appearances:
+  - name: AAAS Member Spotlight
+    link: https://www.aaas.org/membership/member-spotlight/scientist-sebastian-echeverri-treats-spiders-dignity-they-deserve
+    img: /static/img/aaas.png
   - name: Bama Bug Fest
     img: /static/img/bama-bug-fest-square_black.png
     link: https://www.youtube.com/watch?v=VmJdXdIiCBc&list=PL0p3Noz5BSA8ZgDsmSBW_C7S6QqFALpZb&index=7
@@ -46,6 +49,9 @@ appearances:
   - name: Wood Street Galleries
     img: /static/img/woodstreet-galleries-logo_on-black.png
     link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
+  - name: Phipps BioPGH Blog
+    link: https://www.phipps.conservatory.org/blog/detail/biopgh-blog-leaping-for-jumping-spiders
+    img: /static/img/phipps.png
 tags:
   - media appearances
 ---
