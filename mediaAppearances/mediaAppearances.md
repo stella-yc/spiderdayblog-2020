@@ -28,6 +28,9 @@ appearances:
   - name: Nagging Naturalist Podcast
     img: /static/img/nagging-naturalist_sq.png
     link: https://anchor.fm/the-nagging-naturalist/episodes/Arachtober-Interview-with-Dr--Sebastian-Echeverri-elcc0h
+  - name: Phipps BioPGH Blog
+    link: https://www.phipps.conservatory.org/blog/detail/biopgh-blog-leaping-for-jumping-spiders
+    img: /static/img/phipps.png
   - name: Popular Science
     img: /static/img/original-1513626754-62a5c8654a7b18d215eb18989f595ad8.png
     link: https://www.popsci.com/jumping-spiders-dance-moves
@@ -49,9 +52,6 @@ appearances:
   - name: Wood Street Galleries
     img: /static/img/woodstreet-galleries-logo_on-black.png
     link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
-  - name: Phipps BioPGH Blog
-    link: https://www.phipps.conservatory.org/blog/detail/biopgh-blog-leaping-for-jumping-spiders
-    img: /static/img/phipps.png
 tags:
   - media appearances
 ---
