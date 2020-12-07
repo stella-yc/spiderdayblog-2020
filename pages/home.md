@@ -13,4 +13,4 @@ imageSecondaryAlt: A jumping spider peeking out from under a leaf
 ---
 Hi! I'm Sebastian Alejandro Echeverri. I am a scientist, educator, journalist, and photographer.
 
-My mission is to spark curiosity in the natural world, and make science (and spiders!) more accessible, inclusive and joyful for people of all ages and backgrounds.
+My mission is to spark curiosity in the natural world, and make science (and spiders!) more accessible, inclusive, and joyful for people of all ages and backgrounds.
