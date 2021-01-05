@@ -38,17 +38,19 @@ works:
     body: I am the founder and editor of Arachnofiles, a group blog by a mix of
       professional and amateur arachnologists. We tell stories about amazing
       arachnids and the people who study them.
-  - name: Skype a Scientist
-    img: /static/img/skype-a-scientist.jpg
-    link: https://www.youtube.com/watch?v=ihsniD3OR7g
+  - name: Three Rivers Evolution Event
+    img: /static/img/tree-logo-sq.png
+    link: https://sites.google.com/view/treepgh
     summary: Taught classrooms from around the country about arachnid ecology and
       behavior through Q&A and guided observation of live animals conducted via
       video chat 2018 - 2019.
     links:
-      - url: https://www.youtube.com/watch?v=ihsniD3OR7g
-        title: "Skype a Scientist Live: Spiders"
-    body: I (digitally) visit K-12 classrooms via Skype a Scientist to talk about
-      arachnids, answer student questions, and introduce them to live spiders!
+      - url: https://sites.google.com/view/treepgh
+        title: TREE Website
+    body: As the Co-Chair of TREE's Communication Committee and the Committee for
+      Diversity & Inclusion, I helped organize and create a new scientific
+      conference committed to accessibility with free registration, travel
+      awards, and mentorship programs for undergraduate researchers.
 tags:
   - featured work
 ---
