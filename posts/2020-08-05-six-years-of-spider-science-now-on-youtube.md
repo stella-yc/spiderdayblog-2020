@@ -1,13 +1,14 @@
 ---
-title: "Six years of spider science, now on YouTube"
+title: Six years of spider science, now on YouTube
 date: 2020-08-05T15:43:07.338Z
 image: /static/img/echeverri_phd-defense_2020-05-16_title.png
+summary: It's Dr. Echeverri now!
 tags:
   - grad school
   - jumping spiders
+  - research
 ---
-
-So, big news! I defended my PhD this May (via Zoom), and am submitting all the paperwork this Friday.. I'm done with grad school!
+I defended my PhD this May (via Zoom), and am submitting all the paperwork this Friday.. I'm done with grad school!
 
 If you'd like to learn about what I've been up to, I've uploaded my PhD defense to YouTube:
 
