@@ -4,7 +4,7 @@ date: 2021-03-11T20:36:10.970Z
 image: /static/img/entopoc-banner.jpg
 summary: I'm super honored to be March's Scientist of the Month!
 tags:
-  - post
+  - Awards
 ---
 **Entomologists of Color** is an awesome organization working to support BIPOC scientists in entomology and arachnology. They sponsor students membership fees for professional societies, provide resources, match trainees with mentors, and more! 
 
