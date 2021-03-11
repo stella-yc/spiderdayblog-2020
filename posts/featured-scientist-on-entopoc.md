@@ -1,5 +1,5 @@
 ---
-title: Featured Scientist on EntoPoC
+title: Featured scientist on EntoPoC
 date: 2021-03-11T20:36:10.970Z
 image: /static/img/entopoc-banner.jpg
 summary: I'm super honored to be March's Scientist of the Month!
