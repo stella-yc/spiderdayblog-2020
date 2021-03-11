@@ -31,6 +31,9 @@ appearances:
   - name: Nagging Naturalist Podcast
     img: /static/img/nagging-naturalist_sq.png
     link: https://anchor.fm/the-nagging-naturalist/episodes/Arachtober-Interview-with-Dr--Sebastian-Echeverri-elcc0h
+  - name: Marvels of Science
+    img: /static/img/marvels-of-science_black.jpg
+    link: https://anchor.fm/marvels-of-science/episodes/Episode-9-Spider-Man-Does-Whatever-He-Wants-er2gp3
   - name: Phipps BioPGH Blog
     link: https://www.phipps.conservatory.org/blog/detail/biopgh-blog-leaping-for-jumping-spiders
     img: /static/img/phipps.png
