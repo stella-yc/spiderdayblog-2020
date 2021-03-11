@@ -25,6 +25,9 @@ appearances:
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
+  - link: https://anchor.fm/justthezooofus/episodes/87-Jumping-Spiders-w-Dr--Sebastian-Echeverri-ercevf
+    name: Just The Zoo of Us
+    img: /static/img/just-the-zoo-of-us.jpg
   - name: Nagging Naturalist Podcast
     img: /static/img/nagging-naturalist_sq.png
     link: https://anchor.fm/the-nagging-naturalist/episodes/Arachtober-Interview-with-Dr--Sebastian-Echeverri-elcc0h
@@ -40,6 +43,9 @@ appearances:
   - name: Science Friday
     img: /static/img/sci-fri-logo.png
     link: https://www.sciencefriday.com/articles/science-friday-summer-institute-2020/
+  - name: Short Wave
+    img: /static/img/shortwave.png
+    link: https://www.npr.org/2021/01/28/961713102/fact-smack-spider-edition
   - name: "Skype a Scientist: Live"
     link: https://www.youtube.com/watch?v=ihsniD3OR7g
     img: /static/img/skype-a-scientist.jpg
