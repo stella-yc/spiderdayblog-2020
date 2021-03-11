@@ -1,9 +1,9 @@
 ---
-title: Spider Science in Your Podcast Feed
+title: Spider science in your feed
 date: 2021-03-11T20:07:37.014Z
 image: /static/img/20190220-dsc_2503-2.jpg
 summary: It's only March, and somehow I've been lucky enough to guest on four
-  different shows!
+  different podcasts!
 tags:
   - Jumping Spiders
   - Podcast
