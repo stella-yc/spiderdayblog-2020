@@ -9,7 +9,7 @@ tags:
   - Podcast
   - SpiderMan
 ---
-On NPR's daily science podcast, **Short Wave**, I chatted with Maddie Sofia about why spiders are 8-legs-and-2-palps-down the best animals. Full stop. [Listen here](https://www.sciencefriday.com/articles/science-friday-summer-institute-2020/).
+On NPR's daily science podcast, **Short Wave**, I chatted with Maddie Sofia about why spiders are 8-legs-and-2-palps-down the best animals. Full stop. [Listen here](https://www.npr.org/2021/01/28/961713102/fact-smack-spider-edition).
 
 On **Just the Zoo of Us**, a show where scientists rate the animals they study, we got to focus on just jumping spiders, and their fantastic abilities. [Listen here](https://anchor.fm/justthezooofus/episodes/87-Jumping-Spiders-w-Dr--Sebastian-Echeverri-ercevf).
 
