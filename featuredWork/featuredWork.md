@@ -1,6 +1,15 @@
 ---
 name: Featured Work List
 works:
+  - name: "Crash Course: Zoology"
+    link: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
+    img: /static/img/cc.png
+    body: As the Science Consultant for Crash Course's new series on Zoology, I
+      developed all of the scientific content for the series, including the
+      learning goals, syllabus, and episode outlines. Over 14 episodes, this
+      series explores the starting diversity and evolutionary history of
+      animals, along with how zoologists of all kinds continue to explore these
+      mysteries.
   - name: The Philadelphia Inquirer
     img: /static/img/u3kox7ld.png
     link: https://www.inquirer.com/author/echeverri_sebastian/
