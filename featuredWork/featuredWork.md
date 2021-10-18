@@ -6,10 +6,13 @@ works:
     img: /static/img/cc.png
     body: As the Science Consultant for Crash Course's new series on Zoology, I
       developed all of the scientific content for the series, including the
-      learning goals, syllabus, and episode outlines. Over 14 episodes, this
+      learning goals, syllabus, and episode outlines. Across 14 episodes, this
       series explores the starting diversity and evolutionary history of
       animals, along with how zoologists of all kinds continue to explore these
       mysteries.
+    links:
+      - url: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
+        title: Watch the series on YouTube
   - name: The Philadelphia Inquirer
     img: /static/img/u3kox7ld.png
     link: https://www.inquirer.com/author/echeverri_sebastian/
@@ -21,21 +24,27 @@ works:
         title: My Articles
       - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
         title: Readership Statistics (as of Feb 2020)
+      - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
+        title: Distillations episode
     body: As a 2019 AAAS Mass Media Fellow, I worked as a staff writer and
       contributing photographer for the Inquirer. I covered science, technology,
       and nature news, from breakthroughs in terraforming Mars to the story of
       an endemic spider that is quite literally "West Philly, born and raised".
-  - name: Distillations
-    img: /static/img/distillations.png
-    link: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
-    summary: Stuff here
+      In addition, I worked as an assistant producer and guest host for an
+      episode of the Science History Institute's podcast, Distillations.
+  - name: American Arachnological Society
+    img: /static/img/aassymposiumdesign_transparent_sq500p.png
+    link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
+    body: I am the social media manager for the AAS, where I handle all posts,
+      audience engagement, and public announcements on the society’s Twitter and
+      Facebook pages. And as the Events Co-Chair for the 2020 and 2021 virtual
+      meetings of the American Arachnological Society (AAS), I designed and
+      managed a variety of conference events, including booking guest speakers
+      and workshop leaders. I also gave an introductory workshop on smartphone
+      macro photography.
     links:
-      - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
-        title: "\"How Philadelphia's Water Pollution Problems Shaped the City\""
-    body: I worked as an assistant producer and guest host for an episode of the
-      Science History Institute's  podcast, Distillations. We explored the saga
-      of science, corruption, and history behind how Philly gets and uses its
-      water.
+      - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
+        title: AAS 2021 Virtual Meeting
   - name: Arachnofiles
     img: /static/img/arachnofiles_square-crop.jpg
     link: https://medium.com/arachnofiles
