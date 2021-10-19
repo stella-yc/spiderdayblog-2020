@@ -8,7 +8,9 @@ eleventyNavigation:
 ---
 My favorite part of being a scientist is making science accessible and fun for everyone! I've been doing SciComm since 2015. Whether it's in-person, on a video call, in a podcast, or on TV, I am always down to get people hyped about weird animals and cool science. And as a first-generation Colombian immigrant, I love showing that brown people belong in science and media!
 
-**Interested in booking me for a (virtual) classroom visit, guest lecture, podcast interview, livestream, TV show, or other event?** Drop me a (silk) line at spiderdaynightlive \[at] gmail \[dot] com for availability, rates, and details!
+### **Interested in booking me for a (virtual) classroom visit, guest lecture, podcast interview, livestream, TV show, or other event?** 
+
+Drop me a (silk) line at spiderdaynightlive \[at] gmail \[dot] com for availability, rates, and details!
 
 ## Outreach
 
@@ -32,7 +34,7 @@ Throughout my PhD, I also covered breaking research by livetweeting the scientif
 
 ## Teaching
 
-![](/static/img/cc-zoo.jpg "The title card for \"Crash Course Zoology\"")
+![](/static/img/cc-zoo.jpg "The title card for \\"Crash Course Zoology\\"")
 
 I've had a blast teaching in all kinds of classrooms! During my PhD, I also completed a Minor in Teaching, and worked as a teaching assistant for 10 semesters. I taught a variety of undergraduate biology courses, including Ecology, Evolution, Genetics, Wildlife Management, and Conservation Biology. These have been a mix of small seminars, large-enrollment courses, and even field courses! I've also developed 4 lessons of my own⁠—ranging from effective science communication to the role of animal senses in conservation⁠—which I delivered as a guest lecturer for other professors. 
 
