@@ -1,13 +1,13 @@
 ---
+imagePrimary: /static/img/20201203-screen-shot-2020-10-23-at-9.03.31-pm-2.jpg
+imagePrimaryAlt: Sebastian Echeverri is on a TV studio set, smiling at the camera
+layout: layouts/home.njk
 title: Home
 date: 2020-10-15T18:28:10.599Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
-imagePrimary: static/img/sebastian-outdoors.jpg
-imagePrimaryAlt: Sebastian Echeverri is outdoors with his camera gear for wildlife photography
-layout: layouts/home.njk
 imageSecondary: static/img/jumping-spider-hi.jpeg
 imageSecondaryAlt: A jumping spider peeking out from under a leaf
 ---
