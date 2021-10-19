@@ -33,10 +33,9 @@ works:
       In addition, I worked as an assistant producer and guest host for an
       episode of the Science History Institute's podcast, Distillations.
   - name: American Arachnological Society
-    img: /static/img/aassymposiumdesign_transparent_sq500p.png
+    img: /static/img/aassymposiumdesign_transparent_rt1k.png
     link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-    body: I am the social media manager for the AAS, where I handle all posts,
-      audience engagement, and public announcements on the society’s Twitter and
+    body: I am the social media manager for the AAS,the society’s Twitter and
       Facebook pages. And as the Events Co-Chair for the 2020 and 2021 virtual
       meetings of the American Arachnological Society (AAS), I designed and
       managed a variety of conference events, including booking guest speakers
