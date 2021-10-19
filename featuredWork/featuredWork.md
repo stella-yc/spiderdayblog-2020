@@ -35,15 +35,23 @@ works:
   - name: American Arachnological Society
     img: /static/img/aassymposiumdesign_transparent_rt1k.png
     link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-    body: I am the social media manager for the AAS,the society’s Twitter and
-      Facebook pages. And as the Events Co-Chair for the 2020 and 2021 virtual
-      meetings of the American Arachnological Society (AAS), I designed and
-      managed a variety of conference events, including booking guest speakers
-      and workshop leaders. I also gave an introductory workshop on smartphone
-      macro photography.
+    body: I am the social media manager for the American Arachnological Society
+      (AAS), as well as the Events Co-Chair for the AAS' 2020 and 2021 virtual
+      conferences. Along with Dr. Catherine Scott, I organized a [panel
+      discussion](https://www.youtube.com/watch?v=uKVz0Kf9Fw0) and
+      [workshop](https://www.youtube.com/watch?v=fqIn1YtMq1Q&list=PLNEYsCLNOch28FT6HpTIajKZYqnL8UPpI&index=3)
+      on issues of diversity, equity, and inclusion, an [arachnid Q&A
+      livestream](https://www.youtube.com/watch?v=xNvhbiyEj9s&list=PLNEYsCLNOch28FT6HpTIajKZYqnL8UPpI),
+      a [photography
+      workshop](https://www.youtube.com/watch?v=1qc9PCB5_tM&list=PLNEYsCLNOch06vVuudJ6Wz3-5hIjsgmu3),
+      and more.
     links:
       - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
         title: AAS 2021 Virtual Meeting
+      - url: https://www.youtube.com/channel/UCJGFIn_r-2j6VRVREamUgKQ/playlists?view=50&sort=dd&shelf_id=2
+        title: AAS 2021 presentations on YouTube
+      - url: https://twitter.com/AAS_arachnology
+        title: AAS Twitter
   - name: Arachnofiles
     img: /static/img/arachnofiles_square-crop.jpg
     link: https://medium.com/arachnofiles
