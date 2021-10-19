@@ -8,6 +8,8 @@ eleventyNavigation:
 ---
 ## My Photography
 
+### **Photo prints and other merchandise are now available [via my Redbubble Store](https://www.redbubble.com/people/spiderdaynight/shop?artistUserName=spiderdaynight&iaCode=u-prints)!**
+
 ![](/static/img/photos.jpg "A gallery of Sebastian's photos of spiders, millipedes, pelicans, butterflies, flowers, snakes, landscapes etc.")
 
 I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for (all of) the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings). 
@@ -15,8 +17,6 @@ I love using my camera to explore nature! You can find my [photography portfolio
 ### **Want some excellent nature photos?**
 
 **I am available for freelance photography work!** If you or your organization need high quality wildlife photos, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
-
-Also, **photo prints and other merchandise are now available [via my Redbubble Store](https://www.redbubble.com/people/spiderdaynight/shop?artistUserName=spiderdaynight&iaCode=u-prints)!**
 
 ### Awards
 
@@ -40,7 +40,7 @@ Also, **photo prints and other merchandise are now available [via my Redbubble S
 
 For macro photography, I use a Nikon D7500 body and a Laowa 100mm 2x macro lens. I light my shots with a Laowa Twin-flash and a homemade diffuser. Previously, I used a NEEWER Speedlite 750ii, and [this diffuser](https://www.bhphotovideo.com/c/product/1499346-REG/angler_psfd_100_portable_speedlight_flash_diffuser.html) from B&H. For larger subjects, I use a Tamron 16-300mm telephoto.
 
-If you are interested in macro photography on a budget, check out [my workshop on Smartphone Macro Photography](https://www.youtube.com/watch?v=1qc9PCB5_tM)! There are very decent clip-on macro lenses for your phones available on Amazon. Search "clip-on macro lens." There are a lot of options, but if you can find it, I am enjoying the Apexel 100mm lens. It was ~$30 when I got it. 
+If you are interested in macro photography on a budget, check out [my workshop on Smartphone Macro Photography](https://www.youtube.com/watch?v=1qc9PCB5_tM)! There are very decent macro lenses for your phones available on Amazon. Search "clip-on macro lens." There are a lot of options, but if you can find it, I am enjoying the Apexel 100mm lens. It was ~$30 when I got it. 
 
 ## Illustration
 
