@@ -12,7 +12,7 @@ My favorite part of being a scientist is making science accessible and fun for e
 
 ## Outreach
 
-![](/static/img/outreach.jpg "Sebastian talks to two kids about local spiders")
+![](/static/img/outreach.jpg "Three photos arranged in a collage. On the left, Sebastian shows three children an enclosure with a beetle. On the top right, students watch a projector screen, where Sebastian is delivering a virtual spider show. In the bottom right, a child looks at a jumping spider under a magnifying lens.")
 
 Between classroom visits, museum events, guest lectures, and afterschool programs, I've designed and presented educational experiences for students of every age, from Pre-K to adults and everyone in between. 
 
@@ -32,7 +32,7 @@ Throughout my PhD, I also covered breaking research by livetweeting the scientif
 
 ## Teaching
 
-![](/static/img/cc-zoo.jpg)
+![](/static/img/cc-zoo.jpg "The title card for \"Crash Course Zoology\"")
 
 I've had a blast teaching in all kinds of classrooms! During my PhD, I also completed a Minor in Teaching, and worked as a teaching assistant for 10 semesters. I taught a variety of undergraduate biology courses, including Ecology, Evolution, Genetics, Wildlife Management, and Conservation Biology. These have been a mix of small seminars, large-enrollment courses, and even field courses! I've also developed 4 lessons of my own⁠—ranging from effective science communication to the role of animal senses in conservation⁠—which I delivered as a guest lecturer for other professors. 
 
