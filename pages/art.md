@@ -14,9 +14,9 @@ I love using my camera to explore nature! You can find my [photography portfolio
 
 ### **Want some excellent nature photos?**
 
-**I am available for freelance photography work!** If youor your organization need high quality pwildlife photos, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
+**I am available for freelance photography work!** If you or your organization need high quality wildlife photos, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
 
-Also, **photo prints and other merchandise are now available via my Redbubble Store!**
+Also, **photo prints and other merchandise are now available [via my Redbubble Store](https://www.redbubble.com/people/spiderdaynight/shop?artistUserName=spiderdaynight&iaCode=u-prints)!**
 
 ### Awards
 
