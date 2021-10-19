@@ -6,10 +6,10 @@ eleventyNavigation:
   key: Merch
   order: 4
 ---
-## [Spiderday Night Art @ Redbubble](https://www.redbubble.com/people/spiderdaynight/explore?asc=u&page=1&sortOrder=recent)
+## \>> [Spiderday Night Store @ Redbubble](https://www.redbubble.com/people/spiderdaynight/explore?asc=u&page=1&sortOrder=recent) <<
 
-You can now purchase Paradise Spider stickers, postcards, and more [via my Redbubble store](https://www.redbubble.com/people/spiderdaynight/explore?asc=u&page=1&sortOrder=recent)! I hope to add more designs soon. I am working on a storefront for photo prints, too.
+![](/static/img/shop-promo.jpg "A screenshot of Sebastian's storefront on Redbubble")
 
-<script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
+> ### **You can now purchase stickers, postcards, home decor, photo prints and more [via my Redbubble store](https://www.redbubble.com/people/spiderdaynight/explore?asc=u&page=1&sortOrder=recent)!** 
 
-<script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'spiderdaynight', 2, 2).renderIframe();</script>
+I just added a bunch of new designs today (Oct 19th 2021), so go check it out. And if there's a design you like, but it's missing the product you want, just let me know!
