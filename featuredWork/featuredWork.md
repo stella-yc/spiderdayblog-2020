@@ -37,14 +37,9 @@ works:
     link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
     body: I am the social media manager for the American Arachnological Society
       (AAS), as well as the Events Co-Chair for the AAS' 2020 and 2021 virtual
-      conferences. Along with Dr. Catherine Scott, I organized a [panel
-      discussion](https://www.youtube.com/watch?v=uKVz0Kf9Fw0) and
-      [workshop](https://www.youtube.com/watch?v=fqIn1YtMq1Q&list=PLNEYsCLNOch28FT6HpTIajKZYqnL8UPpI&index=3)
-      on issues of diversity, equity, and inclusion, an [arachnid Q&A
-      livestream](https://www.youtube.com/watch?v=xNvhbiyEj9s&list=PLNEYsCLNOch28FT6HpTIajKZYqnL8UPpI),
-      a [photography
-      workshop](https://www.youtube.com/watch?v=1qc9PCB5_tM&list=PLNEYsCLNOch06vVuudJ6Wz3-5hIjsgmu3),
-      and more.
+      conferences. Along with Dr. Catherine Scott, I organized a panel
+      discussion and workshop on issues of diversity, equity, and inclusion, an
+      arachnid Q&A livestream, a photography workshop, and more.
     links:
       - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
         title: AAS 2021 Virtual Meeting
