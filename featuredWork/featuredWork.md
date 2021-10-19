@@ -7,9 +7,9 @@ works:
     body: As the Science Consultant for Crash Course's new series on Zoology, I
       developed all of the scientific content for the series, including the
       learning goals, syllabus, and episode outlines. Across 14 episodes, this
-      series explores the starting diversity and evolutionary history of
-      animals, along with how zoologists of all kinds continue to explore these
-      mysteries.
+      series explores the incredible diversity, ecology, and evolutionary
+      history of animals, along with how zoologists of all kinds continue to
+      explore these mysteries.
     links:
       - url: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
         title: Watch the series on YouTube
@@ -30,8 +30,8 @@ works:
       contributing photographer for the Inquirer. I covered science, technology,
       and nature news, from breakthroughs in terraforming Mars to the story of
       an endemic spider that is quite literally "West Philly, born and raised".
-      In addition, I worked as an assistant producer and guest host for an
-      episode of the Science History Institute's podcast, Distillations.
+      I also worked as an assistant producer and guest host for an episode of
+      the Science History Institute's podcast, Distillations.
   - name: American Arachnological Society
     img: /static/img/aassymposiumdesign_transparent_rt1k.png
     link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
