@@ -25,7 +25,7 @@ works:
       - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
         title: Readership Statistics (as of Feb 2020)
       - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
-        title: Distillations episode
+        title: Distillations Podcast
     body: As a 2019 AAAS Mass Media Fellow, I worked as a staff writer and
       contributing photographer for the Inquirer. I covered science, technology,
       and nature news, from breakthroughs in terraforming Mars to the story of
@@ -48,8 +48,6 @@ works:
     links:
       - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
         title: AAS 2021 Virtual Meeting
-      - url: https://www.youtube.com/channel/UCJGFIn_r-2j6VRVREamUgKQ/playlists?view=50&sort=dd&shelf_id=2
-        title: AAS 2021 presentations on YouTube
       - url: https://twitter.com/AAS_arachnology
         title: AAS Twitter
   - name: Arachnofiles
@@ -60,9 +58,12 @@ works:
     links:
       - url: https://medium.com/arachnofiles
         title: Arachnofiles
+      - url: https://twitter.com/search?q=%23arachnews&src=typed_query
+        title: "#Arachnews"
     body: I am the founder and editor of Arachnofiles, a group blog by a mix of
       professional and amateur arachnologists. We tell stories about amazing
-      arachnids and the people who study them.
+      arachnids and the people who study them. As of mid 2021, we are currently
+      on a hiatus.
   - name: Three Rivers Evolution Event
     img: /static/img/tree-logo-sq.png
     link: https://sites.google.com/view/treepgh
