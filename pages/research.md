@@ -26,19 +26,21 @@ High school student Lily Turri presented on our work-in-progress at the AAS 2021
 
 For a full presentation of my research, check out my [PhD defense on YouTube](https://www.youtube.com/watch?v=qQAAh4lfF78&t=416s)! You can also find the PDF of my [dissertation here](http://d-scholarship.pitt.edu/37706/).
 
-> ## How does how animals position themselves change how they can communicate?
+> ## How does the physics of light, sound, and smell, determine how animals position themselves during communication?
 
-The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spatial ("spacing-based") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message (Fig 1). 
+The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spatial ("spacing-based") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message (Fig 2). 
 
 ![](/static/img/research-fig-1_2x1.png "Fig 2. Color communication in Habronattus requires signal alignment")
 
 > **Figure 2.** For paradise jumping spiders (genus *Habronattus*) whether or not a dancing males' lovely colors can be seen by his female audience depends on how both animals position themselves. Males' colors can only be seen from the front, and only the spiders' forward-facing primary eyes can see in color. Photos and spider illustrations by Dr. Daniel Zurek.
 
-Because it can be much easier to communicate if both the presenter and their audience move into the right positions, animals might be under pressure to evolve ways to make sure this happens. But, for a long time, we haven't studied this important part of communication. In the first part of my PhD, I reviewed the reasons behind the spatial limitations on sensors and signals, what (little) we know about how animals position themselves, and how we can use new technology to learn more.
+Because it can be much easier to communicate if both the presenter and their audience move into the right positions, animals might be under pressure to evolve ways to make sure this happens. But, for a long time, we haven't studied this important part of communication. In the first part of my PhD, I reviewed the reasons behind the spatial limitations on sensors and signals, what (little) we know about how different animals position themselves, and how we can use new technology to learn more.
+
+I published a revamped version of this review in Integrative and Comparative Biology ([Echeverri et al. 2021](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icab090/6280543)), with the help of many valiant co-authors. 
 
 > ## When paradise spiders dance, where does their audience look?
 
-Male fiery-haired paradise spiders (*Habronattus pyrrithrix*) put on a [spectacular song and dance show](https://www.youtube.com/watch?v=YEQ3KM4tKLc) to impress females, but there's a potential problem. Males' colors can only be seen from the front, and while the spiders' eight eyes give them an almost 360-degree field of view, some of those eyes see differently. Only the spiders' forward-facing primary eyes can see in color and in high-resolution. Their multiple pairs of secondary eyes are great for detecting movement, but see in black-and-white and blurrier. So, what she sees depends on how both spiders move (Fig 1)!
+Male fiery-haired paradise spiders (*Habronattus pyrrithrix*) put on a [spectacular song and dance show](https://www.youtube.com/watch?v=YEQ3KM4tKLc) to impress females, but there's a potential problem. Males' colors can only be seen from the front, and while the spiders' eight eyes give them an almost 360-degree field of view, some of those eyes see differently. Only the spiders' forward-facing primary eyes can see in color and in high-resolution. Their multiple pairs of secondary eyes are great for detecting movement, but see in black-and-white and blurrier. So, what she sees depends on how both spiders move (Fig 2)!
 
 ![](/static/img/vlcsnap-error431.jpg "Fig 3. Female Habronattus jumping spiders often look away from dancing males")
 
@@ -56,7 +58,9 @@ To increase the chances that his colors are visible, *H. pyrrithrix* males may h
 
 > **Figure 4.** To find out what females found more interesting, we showed her videos on two computer monitors. We could tell what she wanted to look at based on the direction that she spun the foam ball she was holding.
 
-By asking female spiders to choose between looking at animations of waving and non-waving males presented on different backgrounds, I learned that these movements are an excellent way of getting her attention. And, by filming real males courting females in front of the same backgrounds, I discovered that these spiders change how they dance in response to their surroundings! When far away, males make bigger leg movemnts, and when the background is more distracting, they dance from closer to the female. 
+By asking female spiders to choose between looking at animations of waving and non-waving males presented on different backgrounds, I learned that these movements are an excellent way of getting her attention. And, by filming real males courting females in front of the same backgrounds, I discovered that these spiders change how they dance in response to their surroundings! When far away, males make bigger leg movements, and when the background is more distracting, they dance from closer to the female. 
+
+Many of us might do the same things when trying to talk to a friend in a crowded party, but these spiders are doing so while simultaneously putting on a choreographed song and dance routine! And while waving to flag down someone from across the street seems simple, that behavior has never been studied in humans. We actually know *more* about how these spiders wave their arms for attention than for ourselves!
 
 ## **Undergraduate Research**
 
