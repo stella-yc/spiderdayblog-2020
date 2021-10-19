@@ -10,11 +10,13 @@ eleventyNavigation:
 
 ![](/static/img/photos.jpg "A gallery of Sebastian's photos of spiders, millipedes, pelicans, butterflies, flowers, snakes, landscapes etc.")
 
-I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for (all of) the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings).
+I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for (all of) the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings). 
 
-### **I am available for freelance photography work!** 
+### **Want some excellent nature photos?**
 
-Do you or your organization need high quality photos of an animal? Email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
+**I am available for freelance photography work!** If youor your organization need high quality pwildlife photos, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
+
+Also, **photo prints and other merchandise are now available via my Redbubble Store!**
 
 ### Awards
 
