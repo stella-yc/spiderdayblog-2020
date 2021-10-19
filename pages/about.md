@@ -15,17 +15,17 @@ I am a scientist, educator, and science communicator currently based in Pittsbur
 
 In my research, I am interested in how and why animals use color, shape, and movement to talk to each othe. For my PhD, I studied why and how jumping spiders get their audience's attention when performing their spectacular courtship dances. 
 
-I was born in Colombia, and grew up in Forest Hills, NYC. In 2013, I earned a B.S. in Biology and Applied Physics at the University of Miami. I completed my PhD in the [Richards-Zawacki Lab](http://www.rzlab.pitt.edu) at the University of Pittsburgh in May 2020. In my free time, I enjoy video games, anime & manga, and sci-fi books. While I love all animals, there is a special spot in my heart for spiders and other arachnids, and I keep a small collection of arachnids that join me in my educational programs.
+I was born in Colombia, and grew up in Forest Hills, NYC. In 2013, I earned a B.S. in Biology and Applied Physics at the University of Miami. I completed my PhD in the [Richards-Zawacki Lab](http://www.rzlab.pitt.edu) at the University of Pittsburgh in May 2020. In my free time, I enjoy video games, anime & manga, and caring for my recently adopted greyhound, [Flora](https://twitter.com/search?q=%23FloraTheGreyhound&src=typed_query&f=top). While I love all animals, there is a special spot in my heart for spiders and other arachnids, and I keep a small collection of arachnids that join me in my educational programs.
 
 ## Contact
 
-Feel free to contact me with any outreach, photography, or research inquiries, or if you just have a question about spiders!
+Reach out if you have any outreach, photography, or research inquiries, or if you just have a question about spiders!
 
 You can email me directly at spiderdaynightlive \[at] gmail \[dot] com, or reach out via social media. I am [@spiderdaynightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter.
 
 ## Media Appearances
 
-I'd love to be on your podcast, TV show, or other platform to talk everything about spider science and animal vision! Get in touch! 
+I'd love to be on your podcast, TV show, or other platform to talk everything about spider science, animal vision, and evolution! Get in touch! 
 
 You can find all of my previous appearances on the home page of this site, or in my CV.
 
