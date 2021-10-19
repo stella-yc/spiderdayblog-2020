@@ -1,5 +1,5 @@
 ---
-imagePrimary: /static/img/20201203-screen-shot-2020-10-23-at-9.03.31-pm-2.jpg
+imagePrimary: /static/img/20201203-screen-shot-2020-10-23-at-9.03.31-pm.jpg
 imagePrimaryAlt: Sebastian Echeverri is on a TV studio set, smiling at the camera
 layout: layouts/home.njk
 title: Home
