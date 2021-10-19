@@ -32,6 +32,10 @@ Throughout my PhD, I also covered breaking research by livetweeting the scientif
 
 ## Teaching
 
-During my PhD, I also completed a Minor in Teaching, and have built my skills through extensive direct experience in the classroom. I've worked as a teaching assistant for 10 semesters, across a variety of undergraduate biology courses, including Ecology, Evolution, Genetics, Wildlife Management, and Conservation Biology. I have taught in small seminars, large-enrollment courses, and even field courses! I've also developed 4 lessons of my own⁠—ranging from effective science communication to the role of animal senses in conservation⁠—which I delivered as a guest lecturer for other professors. 
+![](/static/img/cc-zoo.jpg)
+
+I've had a blast teaching in all kinds of classrooms! During my PhD, I also completed a Minor in Teaching, and worked as a teaching assistant for 10 semesters. I taught a variety of undergraduate biology courses, including Ecology, Evolution, Genetics, Wildlife Management, and Conservation Biology. These have been a mix of small seminars, large-enrollment courses, and even field courses! I've also developed 4 lessons of my own⁠—ranging from effective science communication to the role of animal senses in conservation⁠—which I delivered as a guest lecturer for other professors. 
+
+I also recently designed a full YouTube video [course on Zoology for the (famous) "Crash Course](https://www.youtube.com/watch?v=ipOoEmrm4pI&list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF)" channel! Across 14 episodes, the series explores the incredible diversity, ecology, and evolutionary history of animals, along with how zoologists of all kinds continue to explore these mysteries.
 
 You can learn more about my teaching philosophy, see examples of my course materials, and see student feedback in [my teaching portfolio](https://drive.google.com/file/d/1cBVH9k1tu4Z6eVYAyYGGpq5pKoPoyZ9Y/view?usp=sharing).
