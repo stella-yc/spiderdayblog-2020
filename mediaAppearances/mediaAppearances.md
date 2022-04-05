@@ -34,6 +34,9 @@ appearances:
   - name: Marvels of Science
     img: /static/img/marvels-of-science_black.jpg
     link: https://anchor.fm/marvels-of-science/episodes/Episode-9-Spider-Man-Does-Whatever-He-Wants-er2gp3
+  - name: Ologies
+    link: https://www.alieward.com/ologies/dancingspiders
+    img: /static/img/ologies-logo.jpg
   - name: Phipps BioPGH Blog
     link: https://www.phipps.conservatory.org/blog/detail/biopgh-blog-leaping-for-jumping-spiders
     img: /static/img/phipps.png
