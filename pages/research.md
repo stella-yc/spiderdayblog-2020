@@ -26,7 +26,7 @@ High school student Lily Turri presented on our work-in-progress at the AAS 2021
 
 For a full presentation of my research, check out my [PhD defense on YouTube](https://www.youtube.com/watch?v=qQAAh4lfF78&t=416s)! You can also find the PDF of my [dissertation here](http://d-scholarship.pitt.edu/37706/).
 
-> ## How does the physics of light, sound, and smell, determine how animals position themselves during communication?
+> ## How do the physics of light, sound, and smell determine how animals position themselves during communication?
 
 The way that animals--including us--communicate with each other is affected by where we are: our relative distance, direction, and location in the environment. Eyes, ears, noses, and other sensory organs have built-in spatial ("spacing-based") limitations. For example, you can't see behind yourself, its easier to smell something the nearer it gets, and it's harder to listen to a conversation in a loud room. Likewise, the ways we've evolved use colors + shapes, sound, and smells to communicate also face spatial challenges. Try reading a letter that is very far away from you, is turned to face away from you, or is in a dark room. When positioning isn't quite right for either end of the conversation (the sensory organ or the signal), you might miss out on part of the message (Fig 2). 
 
