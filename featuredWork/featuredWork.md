@@ -13,6 +13,8 @@ works:
     links:
       - url: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
         title: Watch the series on YouTube
+      - url: https://docs.google.com/spreadsheets/d/16WVKZVO-TvxMVzYk2SiJRo5rx6ATJB4NaDHGsC40WbE/edit?usp=sharing
+        title: Viewership Statistics (as of Mar 2022)
   - name: The Philadelphia Inquirer
     img: /static/img/u3kox7ld.png
     link: https://www.inquirer.com/author/echeverri_sebastian/
