@@ -43,6 +43,9 @@ appearances:
   - name: Popular Science
     img: /static/img/original-1513626754-62a5c8654a7b18d215eb18989f595ad8.png
     link: https://www.popsci.com/jumping-spiders-dance-moves
+  - name: Purdue University Bug Bowl
+    img: /static/img/bugbowl-300x300.png
+    link: https://www.youtube.com/watch?v=rsjmbdQg1wE
   - name: School of Batman
     img: /static/img/school-of-batman.jpg
     link: https://soundcloud.com/schoolofbatman/the-case-of-the-spider-splicers-sebastian-alejandro-echeverri
