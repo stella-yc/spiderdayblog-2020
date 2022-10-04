@@ -11,6 +11,8 @@ eleventyNavigation:
 imageSecondary: static/img/jumping-spider-hi.jpeg
 imageSecondaryAlt: A jumping spider peeking out from under a leaf
 ---
-Hi! I'm Sebastian Alejandro Echeverri. I am a scientist, science communicator, and wildlife photographer.
+Hi! I'm Sebastian Alejandro Echeverri. I am a scientist, science communicator, and wildlife photographer. 
+
+And I'm thrilled to announce that I am the co-host of the new [BBC Earth Podcast](https://www.bbcearth.com/podcast)! 
 
 My mission is to spark curiosity in the natural world, and make science (and spiders!) more accessible, inclusive, and joyful for people of all ages and backgrounds.
