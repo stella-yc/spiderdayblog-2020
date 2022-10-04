@@ -11,23 +11,25 @@ eleventyNavigation:
 imageSecondary: /static/img/spider-doodle-tiny.png
 imageSecondaryAlt: A drawing of a jumping spider
 ---
-I am a scientist, educator, and science communicator currently based in Pittsburgh, PA. My favorite part of science is sharing it with others through formal and informal teaching, science writing, social media, and outreach events. My dream is to host a nature show and introduce people to wonderfully weird animals!
+I am a scientist, educator, and science communicator currently based in Pittsburgh, PA. My favorite part of science is sharing it with others, anywhere and anyway I can! My dream is to host a nature show and introduce people to wonderfully weird animals!
 
-In my research, I am interested in how and why animals use color, shape, and movement to talk to each othe. For my PhD, I studied why and how jumping spiders get their audience's attention when performing their spectacular courtship dances. 
+In my research, I am interested in how and why animals use color, shape, and movement to talk to each other. For my PhD, I studied why and how jumping spiders get their audience's attention when performing their spectacular courtship dances. 
 
-I was born in Colombia, and grew up in Forest Hills, NYC. In 2013, I earned a B.S. in Biology and Applied Physics at the University of Miami. I completed my PhD in the [Richards-Zawacki Lab](http://www.rzlab.pitt.edu) at the University of Pittsburgh in May 2020. In my free time, I enjoy video games, anime & manga, and caring for my recently adopted greyhound, [Flora](https://twitter.com/search?q=%23FloraTheGreyhound&src=typed_query&f=top). While I love all animals, there is a special spot in my heart for spiders and other arachnids, and I keep a small collection of arachnids that join me in my educational programs.
+I was born in Colombia, and grew up in Forest Hills, NYC. In 2013, I earned a B.S. in Biology and Applied Physics at the University of Miami. I completed my PhD in the [Richards-Zawacki Lab](http://www.rzlab.pitt.edu) at the University of Pittsburgh in May 2020. 
 
-## Contact
-
-Reach out if you have any outreach, photography, or research inquiries, or if you just have a question about spiders!
-
-You can email me directly at spiderdaynightlive \[at] gmail \[dot] com, or reach out via social media. I am [@spiderdaynightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter.
+In my free time, I enjoy video games, anime & manga, and caring for my recently adopted greyhound, [Flora](https://twitter.com/search?q=%23FloraTheGreyhound&src=typed_query&f=top). While I love all animals, there is a special spot in my heart for spiders and other arachnids, and I keep a small collection of arachnids that join me in my educational programs.
 
 ## Media Appearances
 
-I'd love to be on your podcast, TV show, or other platform to talk everything about spider science, animal vision, and evolution! Get in touch! 
+Looking for a presenter or guest with endless enthusiasm for the natural world? Want to film some fascinating arachnids behaviors but don't already have a professional spider wrangler? I'd love to be on your TV show, podcast, live event (or other to talk everything about spider science, animal vision, and evolution! 
 
-You can find all of my previous appearances on the home page of this site, or in my CV.
+For all my media work, I am represented by [Gritty Talent](https://www.grittytalent.tv/). You can find all of my previous appearances on the home page of this site, or in my CV.
+
+## Contact
+
+Please reach out if you have any outreach, photography, or research inquiries, or if you just have a question about spiders!
+
+You can email me directly at spiderdaynightlive \[at] gmail \[dot] com, or reach out via social media. I am [@spiderdaynightlive](https://www.instagram.com/spiderdayNightLive/) on Instagram, and [@spiderdaynight](https://twitter.com/spiderdayNight) on Twitter.
 
 ## Elsewhere on the Web
 
