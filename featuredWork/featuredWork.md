@@ -1,6 +1,15 @@
 ---
 name: Featured Work List
 works:
+  - name: The BBC Earth Podcast
+    img: /static/img/bbcepodcast_thumbnail_200.jpg
+    link: https://www.bbcearth.com/podcast
+    body: I am the co-host of the new BBC Earth Podcast! Along with conservation
+      scientist Dr. Rutendo Shackleton, we're bringing you fascinating and funny
+      stories from all around the natural world, every week!
+    links:
+      - url: https://www.bbcearth.com/podcast
+        title: BBC Earth Podcast
   - name: "Crash Course: Zoology"
     link: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
     img: /static/img/cc.png
@@ -15,38 +24,6 @@ works:
         title: Watch the series on YouTube
       - url: https://docs.google.com/spreadsheets/d/16WVKZVO-TvxMVzYk2SiJRo5rx6ATJB4NaDHGsC40WbE/edit?usp=sharing
         title: Viewership Statistics (as of Mar 2022)
-  - name: The Philadelphia Inquirer
-    img: /static/img/u3kox7ld.png
-    link: https://www.inquirer.com/author/echeverri_sebastian/
-    summary: Staff Writer, AAAS Mass Media Fellow & contributing photographer. Wrote
-      for Inquirer’s Health & Science desk, with an average of 7,550 online
-      readers.
-    links:
-      - url: https://www.inquirer.com/author/echeverri_sebastian/
-        title: My Articles
-      - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
-        title: Readership Statistics (as of Feb 2020)
-      - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
-        title: Distillations Podcast
-    body: As a 2019 AAAS Mass Media Fellow, I worked as a staff writer and
-      contributing photographer for the Inquirer. I covered science, technology,
-      and nature news, from breakthroughs in terraforming Mars to the story of
-      an endemic spider that is quite literally "West Philly, born and raised".
-      I also worked as an assistant producer and guest host for an episode of
-      the Science History Institute's podcast, Distillations.
-  - name: American Arachnological Society
-    img: /static/img/aassymposiumdesign_transparent_rt1k.png
-    link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-    body: I am the social media manager for the American Arachnological Society
-      (AAS), as well as the Events Co-Chair for the AAS' 2020 and 2021 virtual
-      conferences. Along with Dr. Catherine Scott, I organized a panel
-      discussion and workshop on issues of diversity, equity, and inclusion, an
-      arachnid Q&A livestream, a photography workshop, and more.
-    links:
-      - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-        title: AAS 2021 Virtual Meeting
-      - url: https://twitter.com/AAS_arachnology
-        title: AAS Twitter
   - name: Arachnofiles
     img: /static/img/arachnofiles_square-crop.jpg
     link: https://medium.com/arachnofiles
@@ -61,6 +38,35 @@ works:
       professional and amateur arachnologists. We tell stories about amazing
       arachnids and the people who study them. As of mid 2021, we are currently
       on a hiatus.
+  - name: American Arachnological Society
+    img: /static/img/aassymposiumdesign_transparent_rt1k.png
+    link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
+    body: I was the Events Co-Chair for the American Arachnological Society (AAS)'
+      2020 and 2021 virtual conferences. Along with Dr. Catherine Scott, I
+      organized a panel discussion and workshop on issues of diversity, equity,
+      and inclusion, an arachnid Q&A livestream, a photography workshop, and
+      more.
+    links:
+      - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
+        title: AAS 2021 Virtual Meeting
+  - name: The Philadelphia Inquirer
+    img: /static/img/u3kox7ld.png
+    link: https://www.inquirer.com/author/echeverri_sebastian/
+    summary: Staff Writer, AAAS Mass Media Fellow & contributing photographer. Wrote
+      for Inquirer’s Health & Science desk, with an average of 7,550 online
+      readers.
+    links:
+      - url: https://www.inquirer.com/author/echeverri_sebastian/
+        title: My Articles
+      - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
+        title: Readership Statistics (as of Feb 2020)
+      - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
+        title: Distillations Podcast
+    body: As a 2019 AAAS Mass Media Fellow, I worked as a staff writer and
+      contributing photographer for the Inquirer. There, I covered science,
+      technology, and nature news. I also worked as an assistant producer and
+      guest host for an episode of the Science History Institute's podcast,
+      Distillations.
   - name: Three Rivers Evolution Event
     img: /static/img/tree-logo-sq.png
     link: https://sites.google.com/view/treepgh
@@ -71,8 +77,8 @@ works:
       - url: https://sites.google.com/view/treepgh
         title: TREE Website
     body: As the Co-Chair of TREE's Communication Committee and the Committee for
-      Diversity & Inclusion, I helped organize and create a new scientific
-      conference committed to accessibility with free registration, travel
+      Diversity & Inclusion, I helped create and organize a new scientific
+      conference committed to accessibility, with free registration, travel
       awards, and mentorship programs for undergraduate researchers.
 tags:
   - featured work
