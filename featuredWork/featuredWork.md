@@ -10,6 +10,16 @@ works:
     links:
       - url: https://www.bbcearth.com/podcast
         title: Listen & subscribe to the podcast
+  - name: Terrestrials LIVE
+    img: /static/img/512-1963972821.png
+    link: https://thegreenespace.org/event/radiolab-presents-terrestrials-live/
+    links:
+      - url: https://www.youtube.com/watch?v=QgQD3qYSuzQ
+        title: Watch on YouTube
+    body: My outreach animals and I joined Radiolab host Lulu Miller for a live
+      celebration of the launch of her kids' show, Terrestrials! We explored
+      what it is like to be (and dance like) a jumping spider, and kids in the
+      audience got to meet Isabel the tarantula & Max the hissing cockroach!
   - name: "Crash Course: Zoology"
     link: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
     img: /static/img/cc.png
@@ -38,17 +48,6 @@ works:
       professional and amateur arachnologists. We tell stories about amazing
       arachnids and the people who study them. As of mid 2021, we are currently
       on a hiatus.
-  - name: American Arachnological Society
-    img: /static/img/aassymposiumdesign_transparent_rt1k.png
-    link: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-    body: I was the Events Co-Chair for the American Arachnological Society (AAS)'
-      2020 and 2021 virtual conferences. Along with Dr. Catherine Scott, I
-      organized a panel discussion and workshop on issues of diversity, equity,
-      and inclusion, an arachnid Q&A livestream, a photography workshop, and
-      more.
-    links:
-      - url: https://www.americanarachnology.org/aas-meetings/aas-meeting-2021/
-        title: AAS 2021 Virtual Meeting
   - name: The Philadelphia Inquirer
     img: /static/img/u3kox7ld.png
     link: https://www.inquirer.com/author/echeverri_sebastian/
@@ -67,19 +66,6 @@ works:
       technology, and nature news. I also worked as an assistant producer and
       guest host for an episode of the Science History Institute's podcast,
       Distillations.
-  - name: Three Rivers Evolution Event
-    img: /static/img/tree-logo-sq.png
-    link: https://sites.google.com/view/treepgh
-    summary: Taught classrooms from around the country about arachnid ecology and
-      behavior through Q&A and guided observation of live animals conducted via
-      video chat 2018 - 2019.
-    links:
-      - url: https://sites.google.com/view/treepgh
-        title: TREE Website
-    body: As the Co-Chair of TREE's Communication Committee and the Committee for
-      Diversity & Inclusion, I helped create and organize a new scientific
-      conference committed to accessibility, with free registration, travel
-      awards, and mentorship programs for undergraduate researchers.
 tags:
   - featured work
 ---
