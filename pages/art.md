@@ -14,9 +14,9 @@ eleventyNavigation:
 
 I love using my camera to explore nature! You can find my [photography portfolio here](https://lightroom.adobe.com/shares/a81e891b276843d5b7bcc344ab94a8c2). If you're looking for (all of) the spider photos, [those are here](https://lightroom.adobe.com/shares/c281c904082444e39304f9050ea549fb). (I also have a [Flickr](https://www.flickr.com/photos/saecheverri/) with some of my older photos, but I am in the process of moving hostings). 
 
-### **Want some excellent nature photos?**
+### **Want some excellent nature photos? Or to learn how to take them?**
 
-**I am available for freelance photography work!** If you or your organization need high quality wildlife photos, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
+**I am available for freelance photography work!** If you or your organization need high quality wildlife photos, and/or in-depth photography workshops, email me at spiderdaynightlive \[at] gmail \[dot] com) for rates and details!
 
 ### Awards
 
