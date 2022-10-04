@@ -61,9 +61,6 @@ appearances:
   - name: Surface Learning
     link: https://soundcloud.com/user-311800173/episode-12-jumping-spiders-with-dr-sebastian-echeverri
     img: /static/img/surface-learning_bw.png
-  - img: /static/img/512-1963972821.png
-    name: Terrestrials LIVE
-    link: https://thegreenespace.org/event/radiolab-presents-terrestrials-live/
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
     link: https://podcasts.apple.com/us/podcast/tainted-love-part-1-spider-speed-dating-sebastian-echeverri/id1287125533?i=100046559062
