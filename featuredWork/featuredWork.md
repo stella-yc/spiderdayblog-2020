@@ -41,9 +41,9 @@ works:
       arachnologists write about arachnids for the public.
     links:
       - url: https://medium.com/arachnofiles
-        title: Arachnofiles
+        title: Read Arachnofiles on Medium
       - url: https://twitter.com/search?q=%23arachnews&src=typed_query
-        title: "#Arachnews"
+        title: "Follow us on Twitter for breaking #Arachnews"
     body: I am the founder and editor of Arachnofiles, a group blog by a mix of
       professional and amateur arachnologists. We tell stories about amazing
       arachnids and the people who study them. As of mid 2021, we are currently
