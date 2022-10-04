@@ -26,7 +26,7 @@ I love using my camera to explore nature! You can find my [photography portfolio
 
 ### Featured Work
 
-> “Common Spiders of the US”, Sarah Rose, *Princeton University Press*; Photo of Liphistiid trapdoor spider (Book currently in press)
+> “[](https://press.princeton.edu/books/paperback/9780691175614/spiders-of-north-america)[Spiders of North America](https://press.princeton.edu/books/paperback/9780691175614/spiders-of-north-america)”, Sarah Rose, *Princeton University Press*; Photo of Liphistiid trapdoor spider (Fig. 14, pg 6)
 >
 > Spidey Senser Project, Hawn Lab, University of Maryland Baltimore County; Photography of urban spiders and their webs for a community science project: [Gallery](https://adobe.ly/3xeAPPe)
 >
