@@ -73,9 +73,6 @@ appearances:
   - name: WNYC News
     img: /static/img/wnyc_news.png
     link: https://www.wnyc.org/story/here-comes-fall-or-some-call-it-spider-season/?token=1dfc128b329dec57a384fd336f8b6b00&content_type_id=26&object_id=1254001&_=328bed1e
-  - name: Wood Street Galleries
-    img: /static/img/woodstreet-galleries-logo_on-black.png
-    link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
 tags:
   - media appearances
 ---
