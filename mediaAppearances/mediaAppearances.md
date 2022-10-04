@@ -61,12 +61,18 @@ appearances:
   - name: Surface Learning
     link: https://soundcloud.com/user-311800173/episode-12-jumping-spiders-with-dr-sebastian-echeverri
     img: /static/img/surface-learning_bw.png
+  - img: /static/img/512-1963972821.png
+    name: Terrestrials LIVE
+    link: https://thegreenespace.org/event/radiolab-presents-terrestrials-live/
   - name: The Wild Life
     img: /static/img/the-wild-life.jpg
     link: https://podcasts.apple.com/us/podcast/tainted-love-part-1-spider-speed-dating-sebastian-echeverri/id1287125533?i=100046559062
   - name: Virtual NightLife
     img: /static/img/cal-academy-virtual-nightlife_sq.jpg
     link: https://youtu.be/4-nNtN2mLlg?t=1379
+  - name: WNYC News
+    img: /static/img/wnyc_news.png
+    link: https://www.wnyc.org/story/here-comes-fall-or-some-call-it-spider-season/?token=1dfc128b329dec57a384fd336f8b6b00&content_type_id=26&object_id=1254001&_=328bed1e
   - name: Wood Street Galleries
     img: /static/img/woodstreet-galleries-logo_on-black.png
     link: http://woodstreetgalleries.org/portfolio-view/all-around-us/
