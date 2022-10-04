@@ -9,7 +9,7 @@ works:
       stories from all around the natural world, every week!
     links:
       - url: https://www.bbcearth.com/podcast
-        title: BBC Earth Podcast
+        title: Listen & subscribe to the podcast
   - name: "Crash Course: Zoology"
     link: https://www.youtube.com/playlist?list=PL8dPuuaLjXtNRgJI4gHRLFtOD_r4hfJaF
     img: /static/img/cc.png
