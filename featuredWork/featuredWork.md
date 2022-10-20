@@ -10,6 +10,8 @@ works:
     links:
       - url: https://www.bbcearth.com/podcast
         title: Listen & subscribe to the podcast
+      - url: https://releasd.com/pages/D-XYxroeyEP6lirh7a-aPyJ2Oz9M-BMWwPQ3O-Cc6gQ=
+        title: Press coverage
   - name: Terrestrials LIVE
     img: /static/img/512-1963972821.png
     link: https://thegreenespace.org/event/radiolab-presents-terrestrials-live/
@@ -56,7 +58,7 @@ works:
       readers.
     links:
       - url: https://www.inquirer.com/author/echeverri_sebastian/
-        title: My Articles
+        title: Read my stories
       - url: https://docs.google.com/spreadsheets/d/1_-5PACIQjYUgJzbYpFs_BtYk7ijRwPo2vrU4HwYhNTU/edit?usp=sharing
         title: Readership Statistics (as of Feb 2020)
       - url: https://www.sciencehistory.org/distillations/podcast/how-philadelphias-water-pollution-problems-shaped-the-city
