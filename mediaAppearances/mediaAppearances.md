@@ -22,6 +22,9 @@ appearances:
   - name: Frizzle Factor
     img: /static/img/frizzle-factor.jpg
     link: https://castbox.fm/episode/Science%2C-Spiders%2C-and-Sebastian-Echeverri-id2608046-id227002891
+  - name: Grubbing in the Filth
+    img: /static/img/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg
+    link: https://www.grubbinginthefilth.com/1454458/11538493-jumping-spiders-with-dr-sebastian-echeverri
   - name: Into the Wild
     img: /static/img/into-the-wild.jpg
     link: https://intothewild.podbean.com/e/21-spiders-with-sebastian-echeverri/
